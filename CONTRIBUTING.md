@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202-black.svg)](https://opensource.org/licenses/Apache-2.0)
-<!--[![Open Source Helpers](https://www.codetriage.com/mountbuild/project/badges/users.svg)](https://www.codetriage.com/mountbuild/project)-->
+<!--[![Open Source Helpers](https://www.codetriage.com/drumworkteam/project/badges/users.svg)](https://www.codetriage.com/drumworkteam/project)-->
 
 # Contributions
 
-All contributions are governed by the [covenant](https://github.com/mountbuild/.github/blob/build/CODE_OF_CONDUCT.md).
+All contributions are governed by the [covenant](https://github.com/drumworkteam/.github/blob/make/CODE_OF_CONDUCT.md).
 
 ## Fork this repository
 
@@ -95,22 +95,22 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 Now submit the pull request.
 
-Soon we'll be merging all your changes into the build branch of this project. You will get a notification email once the changes have been merged.
+Soon we'll be merging all your changes into the make branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats! You've just become a Mount contributor. Celebrate your contribution by adding your icon to the main readme.md, and sharing with your friends and followers.
 
 <p align='center'>
-  <a href='https://twitter.com/intent/tweet?text=Yay!%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@mountbuild.%20You%20can%20too%20at%20https://github.com/mountbuild&hashtags=OpenSource,Hacking'>
-    <img src='https://mount.build/slate/twitter.png' width='32'/>
-  </a>　　　<a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fmountbuild&quote=Yay!%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@mountbuild.%20You%20can%20too%20at%20https://github.com/mountbuild&hashtag=%23OpenSource'>
-    <img src='https://mount.build/slate/facebook.png' width='32'/>
-  </a>　　　<a href='https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fmountbuild&title=Mount&summary=The%20Mount%20of%20Information%20and%20Computation&source=https://github.com/mountbuild'>
-    <img src='https://mount.build/slate/linkedin.png' width='32'/>
+  <a href='https://twitter.com/intent/tweet?text=Yay!%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@drumworkteam.%20You%20can%20too%20at%20https://github.com/drumworkteam&hashtags=OpenSource,Hacking'>
+    <img src='https://mount.make/slate/twitter.png' width='32'/>
+  </a>　　　<a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrumworkteam&quote=Yay!%20I%20just%20made%20my%20first%20open%20source%20contribution%20with%20@drumworkteam.%20You%20can%20too%20at%20https://github.com/drumworkteam&hashtag=%23OpenSource'>
+    <img src='https://mount.make/slate/facebook.png' width='32'/>
+  </a>　　　<a href='https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrumworkteam&title=Mount&summary=The%20Mount%20of%20Information%20and%20Computation&source=https://github.com/drumworkteam'>
+    <img src='https://mount.make/slate/linkedin.png' width='32'/>
   </a>
 </p>
 
 To add your icon to the readme.md, just follow what we have done to get the user avatar from GitHub and link to your profile. You can get your user ID from the GitHub API by visiting [https://api.github.com/users/thehydroimpulse](https://api.github.com/users/thehydroimpulse), but instead of `thehydroimpulse`, put your username.
 
-You could also [join our slack team](https://join.slack.com/t/mountbuild/shared_invite/zt-fc5b262t-WTqRzSlyBULUmvcCLdFKPw) in case you need any help or have any questions. Whatever works best.
+You could also [join our slack team](https://join.slack.com/t/drumworkteam/shared_invite/zt-fc5b262t-WTqRzSlyBULUmvcCLdFKPw) in case you need any help or have any questions. Whatever works best.
