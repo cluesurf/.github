@@ -11,13 +11,9 @@
   <img src='https://github.com/drumworkteam/.github/blob/make/view/bush.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>Welcome to DrumWork</h3>
-
 <br/>
 <br/>
 <br/>
-
-### Quick Overview
 
 We are developing a suite of repositories for natural languages and programming languages.
 
