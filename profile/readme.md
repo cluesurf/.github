@@ -19,7 +19,7 @@ And reveals to you through hide and seek<br/>
 
 <p align='center'><em>
 Way down in the feeling tree<br/>
-Your mind calms and urges lead<br/>
+The mind calms and urges lead<br/>
 A dark energy finds your need<br/>
 And reveals to you through hide and seek<br/>
 </em></p>
