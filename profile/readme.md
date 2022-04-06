@@ -1,9 +1,27 @@
 
 ### Welcome to DrumWork
 
-We are developing a suite of repositories for natural languages and programming languages.
+<p align='center'>
+Way back in a simpler time<br/>
+The great mother showed me<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight.
 
-For the programming language, `link`, and it's compiler, `base`, we are making a language that works across devices (similar to Dart/Flutter), which will give you a minimal API footprint. That is, you will be able to learn the least amount possible to have the most possible power and so the biggest impact with the least effort. But at the same time, you will have direct access to the native objects in their original form, so you can have maximum optimization potential and use the underlying architecture's standard paradigms when necessary (such as pointers in the server-side/rust-like environment, which don't exist in JavaScript/browsers). This is possible thanks to the ownership ideas from the Rust community and the like, "move semantics" allow this to work.
+Way deep in the great tree<br/>
+The base link urges me<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight.
+
+Way beyond our thoughts<br/>
+The great wonder is everpresent<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight.
+
+Way more undefined<br/>
+The base link springs forth<br/>
+A dark energy permeating us<br/>
+Vastness hidden in plain sight.
+</p>
 
 <p align='center'>
   <img src='https://github.com/drumworkteam/.github/blob/make/view/bush.svg?raw=true' height='312'>
