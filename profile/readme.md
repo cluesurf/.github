@@ -11,7 +11,7 @@ And reveals to you through hide and seek<br/>
 </em></p>
 
 <p align='center'><em>
-Within vastness cool and keen<br/>
+Within networks cool and keen<br/>
 The <a href='https://github.com/drumworkteam/tone'>tone</a> <a href='https://github.com/drumworkteam/tune'>tune</a> vibes between<br/>
 A dark energy finds your need<br/>
 And reveals to you through hide and seek<br/>
@@ -25,8 +25,8 @@ And reveals to you through hide and seek<br/>
 </em></p>
 
 <p align='center'><em>
-Using your heart you must find the way<br/>
-The <a href='https://github.com/drumworkteam/base'>base</a> <a href='https://github.com/drumworkteam/link'>link</a> might teach you to play<br/>
+Using your heart you must find the key<br/>
+The <a href='https://github.com/drumworkteam/base'>base</a> <a href='https://github.com/drumworkteam/link'>link</a> will help you read<br/>
 A dark energy finds your need<br/>
 And reveals to you through hide and seek<br/>
 </em></p>
