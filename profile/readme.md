@@ -11,7 +11,7 @@ Vastness hidden in plain sight<br/>
 </em></p>
 
 <p align='center'><em>
-Way deep in the great tree<br/>
+Way deep in the center tree<br/>
 The <a href='https://github.com/drumworkteam/tone'>tone</a> <a href='https://github.com/drumworkteam/tune'>tune</a> urges me<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
@@ -19,7 +19,7 @@ Vastness hidden in plain sight<br/>
 
 <p align='center'><em>
 Way beyond our thoughts<br/>
-The great wonder is everpresent<br/>
+The system stacks its deck<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
 </em></p>
