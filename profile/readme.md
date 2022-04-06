@@ -11,8 +11,8 @@ Vastness hidden in plain sight<br/>
 </em></p>
 
 <p align='center'><em>
-Way quiet in the inner space<br/>
-The <a href='https://github.com/drumworkteam/tone'>tone</a> <a href='https://github.com/drumworkteam/tune'>tune</a> flows freely<br/>
+Way down in the center space<br/>
+The <a href='https://github.com/drumworkteam/tone'>tone</a> <a href='https://github.com/drumworkteam/tune'>tune</a> sings quietly<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
 </em></p>
