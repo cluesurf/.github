@@ -26,7 +26,7 @@ Vastness hidden in plain sight<br/>
 
 <p align='center'><em>
 Way more undefined<br/>
-The base link springs forth<br/>
+The <a href='https://github.com/drumworkteam/base'>base</a> <a href='https://github.com/drumworkteam/link'>link</a> springs forth<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
 </em></p>
