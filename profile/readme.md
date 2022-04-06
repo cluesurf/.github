@@ -12,7 +12,7 @@ Vastness hidden in plain sight<br/>
 
 <p align='center'><em>
 Way deep in the great tree<br/>
-The one tone urges me<br/>
+The mind tone urges me<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
 </em></p>
