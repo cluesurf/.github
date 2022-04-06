@@ -25,8 +25,8 @@ And reveals to you through hide and seek<br/>
 </em></p>
 
 <p align='center'><em>
-Using your heart you find the key<br/>
-The <a href='https://github.com/drumworkteam/base'>base</a> <a href='https://github.com/drumworkteam/link'>link</a> will help you read<br/>
+Use your heart to find the key<br/>
+The <a href='https://github.com/drumworkteam/base'>base</a> <a href='https://github.com/drumworkteam/link'>link</a> knows to plant the seed<br/>
 A dark energy finds your need<br/>
 And reveals to you through hide and seek<br/>
 </em></p>
