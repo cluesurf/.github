@@ -19,7 +19,7 @@ Vastness hidden in plain sight<br/>
 
 <p align='center'><em>
 Way deep in the feeling tree<br/>
-The hidden pattern urges me<br/>
+The secret pattern urges me<br/>
 A dark energy permeating us<br/>
 Vastness hidden in plain sight<br/>
 </em></p>
