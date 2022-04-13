@@ -3,6 +3,12 @@
 <br/>
 <br/>
 
+<p align='center'>
+  <img src='https://github.com/drumworkteam/.github/blob/make/view/drum.svg?raw=true' height='256'>
+</p>
+
+<br/>
+
 <p align='center'><em>
 Way back in a simpler time<br/>
 The great mother showed you rhyme<br/>
