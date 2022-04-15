@@ -44,12 +44,6 @@ The following table outlines the key projects and their overall purpose, so you 
 <br/>
 <br/>
 
-<p align='center'>
-  <img src='https://github.com/drumworkteam/.github/blob/make/view/drum.svg?raw=true' height='256'>
-</p>
-
-<br/>
-
 | Code | Note |
 |:----:|:----|
 | [`base`](https://github.com/drumworkteam/base) | **The Link Text Compiler** |
