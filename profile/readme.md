@@ -39,7 +39,7 @@ The **goal** here is to create a suite of tools to write code in one language ([
 
 Once we can nail down a prototype implementation that works in at least JavaScript (Node.js and Browser), and either Swift or Rust, then we will start publicizing the results and asking for help. But currrently things are fluctuating constantly so it might be too much to bring it out in the open (even though it's publicly open source). If you'd like to help though, even now, that would be totally wonderful, please reach out.
 
-The following table outlines the key projects and their overall purpose, so you can see how the pieces of the puzzle fit together. This is partly a learning experiment/journey, to understand the fundamentals of building an optimized compiler, and partly a creative outlet which can't be adequately expressed in a traditional work environment, yet.
+The following table outlines the key projects and their overall purpose, so you can see how the pieces of the puzzle fit together. This is mostly a love for learning, a journey to understand the fundamentals of building an optimized compiler.
 
 <br/>
 <br/>
