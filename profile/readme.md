@@ -50,7 +50,6 @@ The following table outlines the key projects and their overall purpose, so you 
 <br/>
 <br/>
 <br/>
-<br/>
 
 | Code | Note |
 |:----:|:----|
@@ -78,11 +77,9 @@ The following table outlines the key projects and their overall purpose, so you 
 <br/>
 <br/>
 <br/>
-<br/>
 
 We are just beginning, so much work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
 
-<br/>
 <br/>
 <br/>
 <br/>
