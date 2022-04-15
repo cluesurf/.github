@@ -41,7 +41,7 @@ And appeals to you through hide and seek<br/>
   <img src='https://github.com/drumworkteam/.github/blob/make/view/bush.svg?raw=true' height='312'>
 </p>
 
-| codebase | description |
+| Code | Note |
 |:----:|:----|
 | [`base`](https://github.com/drumworkteam/base) | **The Link Text Compiler** |
 | <a href="https://github.com/drumworkteam/base"><img src='https://github.com/drumworkteam/base/blob/make/view/base.svg?raw=true' height='128'></a> | This is the main tool for building [`link`](https://github.com/drumworkteam/link) programs. It is a Link Text package manager, as well as its compiler. The main [**docs**](https://github.com/drumworkteam/base/blob/make/book/tree/code-tree/base.link) are found there for all link-related projects. |
