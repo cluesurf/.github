@@ -47,6 +47,9 @@ Once we can nail down a prototype implementation that works in at least JavaScri
 
 The following table outlines the key projects and their overall purpose, so you can see how the pieces of the puzzle fit together. This is partly a learning experiment/journey, to understand the fundamentals of building an optimized compiler, and partly a creative outlet which can't be adequately expressed in a traditional work environment, yet.
 
+<br/>
+<br/>
+
 | Code | Note |
 |:----:|:----|
 | [`base`](https://github.com/drumworkteam/base) | **The Link Text Compiler** |
