@@ -42,7 +42,7 @@ And appeals to you through hide and seek<br/>
 </p>
 
 | codebase | description |
-|:----:|:----:|:----|
+|:----:|:----|
 | [`base`](https://github.com/drumworkteam/base) | **The Link Text Compiler** |
 | <a href="https://github.com/drumworkteam/base"><img src='https://github.com/drumworkteam/base/blob/make/view/view.svg?raw=true' height='128'></a> | This is the main tool for building [`link`](https://github.com/drumworkteam/link) programs. It is a Link Text package manager, as well as its compiler. The main **docs** are found there for all link-related projects. |
 | [`link`](https://github.com/drumworkteam/link) | **The Data Modeling Language, Link** |
