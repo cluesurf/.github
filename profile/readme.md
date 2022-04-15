@@ -49,6 +49,8 @@ The following table outlines the key projects and their overall purpose, so you 
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 | Code | Note |
 |:----:|:----|
@@ -73,4 +75,14 @@ The following table outlines the key projects and their overall purpose, so you 
 | [`rock`](https://github.com/drumworkteam/rock) | **The Link Text Math Structure and Definition Library** |
 | <a href="https://github.com/drumworkteam/rock"><img src='https://github.com/drumworkteam/rock/blob/make/view/view.svg?raw=true' height='128'></a> | This is a collection of mathematical formalizations, written in [`link`](https://github.com/drumworkteam/link). These are going to be used, following along the lines of the HoTT project, as a foundational model of mathematics for use in a programming environment. |
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 We are just beginning, so much work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
+
+<br/>
+<br/>
+<br/>
+<br/>
