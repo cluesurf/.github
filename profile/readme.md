@@ -63,18 +63,6 @@ Once we can nail down a prototype implementation that works in at least JavaScri
 
 The following table outlines the key projects and their overall purpose, so you can see how the pieces of the puzzle fit together. This is mostly a love for learning, a journey to understand the fundamentals of building an optimized compiler.
 
-## Information Curation
-
-We have spent years curating content from the internet, with the goal of cleaning it up and making it freely available (like Wikipedia, for data people, researchers, software engineers, and the general public, etc.). We have gone through several iterations or generations of cleaned content and data, but never got to the point where we thought it was good enough to releasee.
-
-So now we are working on the site [tree.surf](https://tree.surf) to publish all of the data and make it easy to use and learn from. Tree Surf is a community edited, curated "model of the world" website. It has tons of structured data of various kinds, and does as much as possible to structure the unstructured or difficult to structure data (like modeling people, or organizations). It is not like a news website which has a constant stream of new information, instead we build on pieces of content like an organic encyclopedia, combined with an ever refining design, in as concise a way as possible so you can learn about _everything that is central to understanding how the universe works_. Like holding the seed of the universe.
-
-All of the information we collect and the community can collect will be published to Tree Surf and refined, and stored so you can download a copy just in case. You can add data easily by cloning the [tree.surf GitHub repo](https://github.com/teamdrumwork/tree.surf) and adding in the `./contents` folder your structured data. See the readme in that project for more details.
-
-## Data Modeling
-
-This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
-
 <br/>
 <br/>
 
@@ -106,3 +94,14 @@ This is the main goal of the whole project, to have a model of the universe, a w
 
 We are just beginning, so much work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
 
+## Information Curation
+
+We have spent years curating content from the internet, with the goal of cleaning it up and making it freely available (like Wikipedia, for data people, researchers, software engineers, and the general public, etc.). We have gone through several iterations or generations of cleaned content and data, but never got to the point where we thought it was good enough to releasee.
+
+So now we are working on the site [tree.surf](https://tree.surf) to publish all of the data and make it easy to use and learn from. Tree Surf is a community edited, curated "model of the world" website. It has tons of structured data of various kinds, and does as much as possible to structure the unstructured or difficult to structure data (like modeling people, or organizations). It is not like a news website which has a constant stream of new information, instead we build on pieces of content like an organic encyclopedia, combined with an ever refining design, in as concise a way as possible so you can learn about _everything that is central to understanding how the universe works_. Like holding the seed of the universe.
+
+All of the information we collect and the community can collect will be published to Tree Surf and refined, and stored so you can download a copy just in case. You can add data easily by cloning the [tree.surf GitHub repo](https://github.com/teamdrumwork/tree.surf) and adding in the `./contents` folder your structured data. See the readme in that project for more details.
+
+## Data Modeling
+
+This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
