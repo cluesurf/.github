@@ -35,6 +35,8 @@ And appeals to you through hide and seek<br/>
   <img src='https://github.com/drumworkteam/.github/blob/make/view/bush.svg?raw=true' height='312'>
 </p>
 
+## Introduction
+
 Team Drum Work (TDW) does a few main things:
 
 - interviews
