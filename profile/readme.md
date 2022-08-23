@@ -53,7 +53,7 @@ The t-shirts include nature images and nice words in various languages (so far).
 
 ## Interviews
 
-To start, [@lancejpollard](https://twitter.com/lancejpollard) intensely wants to figure out how the universe works and how to evolve toward a more peaceful world. He has a lot of questions about a web of topics, and truly wants to understand how things work. The academic community, scientific community, open source community, historical community, and many other communities offer their knowledge in casual conversations on their specialties or areas of curiosity. We ask them questions about things we are wondering, and go with the flow in figuring things out to come up with a clearer picture of reality.
+To start, we intensely want to figure out how the universe works and how to evolve toward a more peaceful world. He has a lot of questions about a web of topics, and truly wants to understand how things work. The academic community, scientific community, open source community, historical community, and many other communities offer their knowledge in casual conversations on their specialties or areas of curiosity. We ask them questions about things we are wondering, and go with the flow in figuring things out to come up with a clearer picture of reality.
 
 ## Open Source Software
 
