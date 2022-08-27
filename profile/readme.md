@@ -49,7 +49,7 @@ To support this effort, we sell some merch.
 - t-shirts
 - books
 
-The t-shirts include nature images and nice words in various languages (so far). The books are printings of public domain material, mostly ancient texts.
+The books are printings of public domain material, mostly ancient texts.
 
 ## Interviews
 
