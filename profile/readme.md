@@ -43,6 +43,7 @@ Team Drum Work (TDW) does a few main things:
 - open source software
 - information curation
 - data modeling
+- storytelling
 
 To support this effort, we sell some merch.
 
