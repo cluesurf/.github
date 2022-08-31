@@ -35,6 +35,29 @@ And appeals to you through hide and seek<br/>
   <img src='https://github.com/drumworkteam/.github/blob/make/view/bush.svg?raw=true' height='312'>
 </p>
 
+## Introduction
+
+Team Drum Work (TDW) does a few main things:
+
+- interviews
+- open source software
+- information curation
+- data modeling
+- storytelling
+
+To support this effort, we sell some merch.
+
+- t-shirts
+- books
+
+The books are printings of public domain material, mostly ancient texts.
+
+## Interviews
+
+To start, we intensely want to figure out how the universe works and how to evolve toward a more peaceful world. We have a lot of questions about a web of topics, and truly want to understand how things work. The academic community, scientific community, open source community, historical community, and many other communities offer their knowledge in casual conversations on their specialties or areas of curiosity. We ask them questions about things we are wondering, and go with the flow in figuring things out to come up with a clearer picture of reality.
+
+## Open Source Software
+
 The **goal** here is to create a suite of tools to write code in one language ([`link`](https://github.com/drumworkteam/base)), and have it work cross-platform in an optimized way (Swift for iOS/MacOS/etc., Rust for Linux server-side, Kotlin for Android, and JavaScript for Windows and the Browser). But many of the projects are written in such a way as to be language agnostic. That is, you can use the definitions, which are written in `link`, as you would any JSON object in your standard programming language.
 
 Once we can nail down a prototype implementation that works in at least JavaScript (Node.js and Browser), and either Swift or Rust, then we will start publicizing the results and asking for help. But currently things are fluctuating constantly so it might be too much to bring it out in the open (even though it's publicly open source). If you'd like to help though, even now, that would be totally wonderful, please reach out.
@@ -72,3 +95,14 @@ The following table outlines the key projects and their overall purpose, so you 
 
 We are just beginning, so _much_ work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
 
+## Information Curation
+
+We have spent years curating content from the internet, with the goal of cleaning it up and making it freely available (like Wikipedia, for data people, researchers, software engineers, and the general public, etc.). We have gone through several iterations or generations of cleaned content and data, but never got to the point where we thought it was good enough to releasee.
+
+So now we are working on the site [tree.surf](https://tree.surf) to publish all of the data and make it easy to use and learn from. Tree Surf is a community edited, curated "model of the world" website. It has tons of structured data of various kinds, and does as much as possible to structure the unstructured or difficult to structure data (like modeling people, or organizations). It is not like a news website which has a constant stream of new information, instead we build on pieces of content like an organic encyclopedia, combined with an ever refining design, in as concise a way as possible so you can learn about _everything that is central to understanding how the universe works_. Like holding the seed of the universe.
+
+All of the information we collect and the community can collect will be published to Tree Surf and refined, and stored so you can download a copy just in case. You can add data easily by cloning the [tree.surf GitHub repo](https://github.com/teamdrumwork/tree.surf) and adding in the `./contents` folder your structured data. See the readme in that project for more details.
+
+## Data Modeling
+
+This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
