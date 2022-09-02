@@ -44,6 +44,7 @@ Team Drum Work (TDW) does a few main things:
 - information curation
 - data modeling
 - storytelling
+- music
 
 To support this effort, we sell some merch.
 
