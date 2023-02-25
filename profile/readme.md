@@ -11,7 +11,7 @@ And appeals to you through hide and seek<br/>
 
 <p align='center'><em>
 Within networks cool and keen<br/>
-The <a href='https://github.com/moonbond/tone'>tone</a> <a href='https://github.com/moonbond/tune'>tune</a> vibes pleasantly between<br/>
+The <a href='https://github.com/moonbond/tone'>tone</a> vibes pleasantly between<br/>
 A dark energy finds your need<br/>
 And appeals to you through hide and seek<br/>
 </em></p>
