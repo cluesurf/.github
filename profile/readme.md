@@ -55,14 +55,20 @@ The books are printings of public domain material, mostly ancient texts.
 
 TuneBond is basically a modern digital museum, with several tools as offshoots. These tools include:
 
-1. [`beat.land`](https://beat.land): A modern mythology of the universe. The museum entrypoint itself.
-1. [`code.surf`](https://code.surf): A site dedicated to code systems of all sorts, from numbers, to language, to colors, to patterns.
-1. [`tone.rest`](https://tone.rest): A writing system for all the world's languages.
-1. [`bead.chat`](https://bead.chat): A mythological model of the evolution of language into a seed which we can speak today.
-1. [`calm.band`](https://calm.band): Musical explorations modelled after ancient life.
-1. [`base.link`](https://base.link): A (potential future) data hosting site.
-1. [`leaf.show`](https://leaf.show): The podcast, which includes interviews and thoughts about the universe.
-1. [`tune.bond`](https://tune.bond): The brand hub, nothing much to see here.
+|                                                               Site                                                                | Note                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
+|                                                 [`beat.land`](https://beat.land)                                                  | **Beat Land**                                                                                     |
+|   <a href="https://beat.land"><img src='https://github.com/tunebond/.github/blob/make/view/rock.svg?raw=true' height='128'></a>   | A modern mythology of the universe. The museum entrypoint itself.                                 |
+|                                                 [`code.surf`](https://code.surf)                                                  | **CodeSurf**                                                                                      |
+| <a href="https://code.surf"><img src='https://github.com/tunebond/.github/blob/make/view/chipmonk.svg?raw=true' height='128'></a> | A site dedicated to code systems of all sorts, from numbers, to language, to colors, to patterns. |
+|                                                 [`tone.rest`](https://tone.rest)                                                  | **Tone Writing System**                                                                           |
+|   <a href="https://tone.rest"><img src='https://github.com/tunebond/.github/blob/make/view/owl.svg?raw=true' height='128'></a>    | A writing system for all the world's languages.                                                   |
+|                                                 [`bead.chat`](https://bead.chat)                                                  | **Bead Language**                                                                                 |
+|  <a href="https://bead.chat"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' height='128'></a>   | A mythological model of the evolution of language into a seed which we can speak today.           |
+|                                                 [`calm.band`](https://calm.band)                                                  | **Calm Band**                                                                                     |
+|   <a href="https://calm.band"><img src='https://github.com/tunebond/.github/blob/make/view/duck.svg?raw=true' height='128'></a>   | Musical explorations modelled after ancient life.                                                 |
+|                                                 [`leaf.show`](https://leaf.show)                                                  | **The Leaf Show**                                                                                 |
+|   <a href="https://leaf.show"><img src='https://github.com/tunebond/.github/blob/make/view/leaf.svg?raw=true' height='128'></a>   | A podcast, which includes interviews and thoughts about the universe.                             |
 
 ## Open Source Software
 
