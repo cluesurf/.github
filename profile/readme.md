@@ -66,7 +66,7 @@ TuneBond is basically a modern digital museum, with several tools as offshoots. 
 |                                                 [`bead.chat`](https://bead.chat)                                                 | **Bead Language**                                                                                 |
 |  <a href="https://bead.chat"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' width='128'></a>   | A mythological model of the evolution of language into a seed which we can speak today.           |
 |                                                 [`calm.band`](https://calm.band)                                                 | **Calm Band**                                                                                     |
-|   <a href="https://calm.band"><img src='https://github.com/tunebond/.github/blob/make/view/duck.svg?raw=true' width='128'></a>   | Musical explorations modelled after ancient life.                                                 |
+|   <a href="https://calm.band"><img src='https://github.com/tunebond/.github/blob/make/view/frog.svg?raw=true' width='128'></a>   | Musical explorations modelled after ancient life.                                                 |
 |                                                 [`leaf.show`](https://leaf.show)                                                 | **The Leaf Show**                                                                                 |
 |   <a href="https://leaf.show"><img src='https://github.com/tunebond/.github/blob/make/view/leaf.svg?raw=true' width='128'></a>   | A podcast, which includes interviews and thoughts about the universe.                             |
 
