@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and general policies for the `mount`
+This document outlines security procedures and general policies for the `tunebond`
 project.
 
 - [Reporting a Bug](#reporting-a-bug)
@@ -9,8 +9,8 @@ project.
 
 ## Reporting a Bug
 
-The `mount` team and community take all security bugs in `mount` seriously.
-Thank you for improving the security of `mount`. We appreciate your efforts and
+The `tunebond` team and community take all security bugs in `tunebond` seriously.
+Thank you for improving the security of `tunebond`. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
