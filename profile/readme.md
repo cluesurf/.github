@@ -2,6 +2,8 @@
 <br/>
 <br/>
 
+<p align='center'><img src='https://github.com/tunebond/.github/blob/make/view/monkey.svg?raw=true' width='256'></a></p>
+
 <p align='center'><em>
 Way back in a simpler time<br/>
 The great mother showed you rhyme<br/>
