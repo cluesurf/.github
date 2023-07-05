@@ -38,41 +38,35 @@ And appeals to you through hide and seek<br/>
 
 ## Introduction
 
-TuneBond does a few main things:
+Welcome to TuneBond's page. We work with a few main things:
 
-- open source software
-- information curation
-- data modeling
-- podcasting
-- storytelling
-- language building
-- music
+1. **software**: Open source software experimentation is our passion project.
+1. **knowledge**: Understanding how the universe works and modeling information is our main drive.
+1. **language**: Modeling things in natural language or code give a deeper sense of reality.
+1. **story**: Sharing what we've learned in the form of stories or philosophical conversations.
 
-To support this effort, we sell some merch.
+TuneBond is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, we've creative a few sites to share what we've come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
-- t-shirts
-- books
-
-The books are printings of public domain material, mostly ancient texts.
-
-TuneBond is basically a modern digital museum, with several tools as offshoots. These tools include:
-
-|                                                             Site                                                              | Note                                                                                    |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------- |
-|                                               [`beat.land`](https://beat.land)                                                | **Beat Land**                                                                           |
-| <a href="https://beat.land"><img src='https://github.com/tunebond/.github/blob/make/view/rock.svg?raw=true' width='128'></a>  | A modern mythology of the universe. The museum entrypoint itself.                       |
-|                                               [`tone.rest`](https://tone.rest)                                                | **Tone Writing System**                                                                 |
-|  <a href="https://tone.rest"><img src='https://github.com/tunebond/.github/blob/make/view/owl.svg?raw=true' width='128'></a>  | A writing system for all the world's languages.                                         |
-|                                               [`bead.chat`](https://bead.chat)                                                | **Bead Language**                                                                       |
-| <a href="https://bead.chat"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' width='128'></a> | A mythological model of the evolution of language into a seed which we can speak today. |
-|                                               [`calm.band`](https://calm.band)                                                | **Calm Band**                                                                           |
-| <a href="https://calm.band"><img src='https://github.com/tunebond/.github/blob/make/view/frog.svg?raw=true' width='128'></a>  | Musical explorations modelled after ancient life.                                       |
-|                                               [`leaf.show`](https://leaf.show)                                                | **The Leaf Show**                                                                       |
-| <a href="https://leaf.show"><img src='https://github.com/tunebond/.github/blob/make/view/leaf.svg?raw=true' width='128'></a>  | A podcast, which includes interviews and thoughts about the universe.                   |
+|                                                              Site                                                              | Note                                                                                                              |
+| :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
+|                                                [`base.link`](https://base.link)                                                | **The Base Link Programming Language**                                                                            |
+| <a href="https://base.link"><img src='https://github.com/tunebond/base.link/blob/make/view/base.svg?raw=true' width='128'></a> | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
+|                                                [`tone.rest`](https://tone.rest)                                                | **The Tone Writing System**                                                                                       |
+|  <a href="https://tone.rest"><img src='https://github.com/tunebond/.github/blob/make/view/owl.svg?raw=true' width='128'></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
+|                                                [`bead.chat`](https://bead.chat)                                                | **The Bead Spoken Language**                                                                                      |
+| <a href="https://bead.chat"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' width='128'></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
+|                                                [`beat.land`](https://beat.land)                                                | **The Beat Land Chronology**                                                                                      |
+|  <a href="https://beat.land"><img src='https://github.com/tunebond/.github/blob/make/view/rock.svg?raw=true' width='128'></a>  | A modern mythology of the universe. The museum entrypoint itself.                                                 |
+|                                                [`leaf.show`](https://leaf.show)                                                | **The Leaf Show**                                                                                                 |
+|  <a href="https://leaf.show"><img src='https://github.com/tunebond/.github/blob/make/view/leaf.svg?raw=true' width='128'></a>  | A podcast, which includes interviews and thoughts about the universe.                                             |
 
 ## Open Source Software
 
-The **goal** here is to create a suite of tools to write code in one language ([`link`](https://github.com/tunebond/link)), and have it work cross-platform in an optimized way (Swift for iOS/MacOS/etc., Rust for Linux server-side, Kotlin for Android, and JavaScript for Windows and the Browser). But many of the projects are written in such a way as to be language agnostic. That is, you can use the definitions, which are written in `link`, as you would any JSON object in your standard programming language.
+One of our biggest passion projects is to have one programming language or tool to build all possibilities of software apps and libraries. Something like [Rails](https://rubyonrails.org), where everything is streamlined and out of the way so you can focus on your main task instead of wrangling code. Combined with something like [Haxe](https://haxe.org/) or [Dart](https://dart.dev/) where it compiles down to every platform natively. We are deep into the programming and computer science worlds, having been working toward this goal for several years. There's still a huge amount of work that remains to be done, and like mentioned earlier, we are still defining the look and feel of everything at this point, only barely scratching the surface in terms of making the code run.
+
+We wrote [`link`](https://github.com/tunebond/link), a super minimal tree-based data modeling language sort of like YAML/JSON/XML, which is in some ways more readable and concise than them. That project is basically finished. The spec is defined in that repo, and a primitive parser is implemented to convert link text into a tree. The next step is taking the link tree and compiling it into runnable code via [`base.link`](https://github.com/tunebond/base.link).
+
+The **goal** here is to create a suite of tools to write code in one language, Link, and have it work cross-platform in an optimized way. This means compiling the Link Text into Swift for iOS/MacOS/etc., Rust for Linux server-side, Kotlin for Android, and JavaScript for Windows, the Browser, and Node.js. But many of the projects are written in such a way as to be language agnostic. That is, you can use the definitions, which are written in `link`, as you would any JSON object in your standard programming language.
 
 Once we can nail down a prototype implementation that works in at least JavaScript (Node.js and Browser), and either Swift or Rust, then we will start publicizing the results and asking for help. But currently things are fluctuating constantly so it might be too much to bring it out in the open (even though it's publicly open source). If you'd like to help though, even now, that would be totally wonderful, please reach out.
 
