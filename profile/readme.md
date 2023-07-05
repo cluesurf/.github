@@ -42,10 +42,10 @@ Welcome to TuneBond's page. We work with a few main things:
 
 1. **software**: Open source software experimentation is our passion project.
 1. **knowledge**: Understanding how the universe works and modeling information is our main drive.
-1. **language**: Modeling things in natural language or code give a deeper sense of reality.
+1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
 1. **story**: Sharing what we've learned in the form of stories or philosophical conversations.
 
-TuneBond is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, we've creative a few sites to share what we've come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
+TuneBond is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, we've created a few sites to share what we've come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
