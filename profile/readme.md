@@ -51,14 +51,14 @@ TuneBond is basically trying to synthesize and simplify the knowledge of the wor
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
+|                                                [`drum.work`](https://drum.work)                                                | **The Beat Land Notebook**                                                                                        |
+|  <a href="https://drum.work"><img src='https://github.com/tunebond/.github/blob/make/view/rock.svg?raw=true' height="92"></a>  | A modern model of the universe. The museum entrypoint itself.                                                     |
+|                                                [`beat.land`](https://beat.land)                                                | **The Bead Spoken Language**                                                                                      |
+| <a href="https://beat.land"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' height="92"></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
+|                                                [`tone.land`](https://tone.land)                                                | **The Tone Writing System**                                                                                       |
+|  <a href="https://tone.land"><img src='https://github.com/tunebond/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
 |                                                [`base.link`](https://base.link)                                                | **The BaseLink Programming Language**                                                                             |
 | <a href="https://base.link"><img src='https://github.com/tunebond/base.link/blob/make/view/base.svg?raw=true' height="92"></a> | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
-|                                                [`tone.rest`](https://tone.rest)                                                | **The Tone Writing System**                                                                                       |
-|  <a href="https://tone.rest"><img src='https://github.com/tunebond/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
-|                                                [`bead.chat`](https://bead.chat)                                                | **The Bead Spoken Language**                                                                                      |
-| <a href="https://bead.chat"><img src='https://github.com/tunebond/.github/blob/make/view/fungi.svg?raw=true' height="92"></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
-|                                                [`beat.land`](https://beat.land)                                                | **The Beat Land Chronology**                                                                                      |
-|  <a href="https://beat.land"><img src='https://github.com/tunebond/.github/blob/make/view/rock.svg?raw=true' height="92"></a>  | A modern mythology of the universe. The museum entrypoint itself.                                                 |
 |                                                [`leaf.show`](https://leaf.show)                                                | **The Leaf Show**                                                                                                 |
 |  <a href="https://leaf.show"><img src='https://github.com/tunebond/.github/blob/make/view/leaf.svg?raw=true' height="92"></a>  | A podcast, which includes interviews and thoughts about the universe.                                             |
 
@@ -117,13 +117,13 @@ To start, we intensely want to figure out how the universe works and how to evol
 
 ## Storytelling
 
-On [`bead.chat`](https://bead.chat) we consider the origins and evolution of language in a hypothetical scenario. On [`beat.land`](https://beat.land) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
+On [`beat.land`](https://beat.land) we consider the origins and evolution of language in a hypothetical scenario. On [`drum.work`](https://drum.work) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
 
 ## Language Building
 
-Like mentioned, [`bead`](https://bead.chat) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
+Like mentioned, [`bead`](https://beat.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
 
-We also created [`tone`](https://tone.rest), a writing system for the languages of Earth. It is used in `bead` as the standard writing system as well.
+We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `bead` as the standard writing system as well.
 
 ## Music
 
