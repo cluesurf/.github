@@ -51,10 +51,10 @@ NerdBond is basically trying to synthesize and simplify the knowledge of the wor
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
-|                                                [`drum.work`](https://drum.work)                                                | **The World Mythology**                                                                                           |
-|  <a href="https://drum.work"><img src='https://github.com/nerdbond/.github/blob/make/view/rock.svg?raw=true' height="92"></a>  | A modern model of the universe. The museum entrypoint itself.                                                     |
-|                                                [`beat.land`](https://beat.land)                                                | **The Bead Spoken Language**                                                                                      |
-| <a href="https://beat.land"><img src='https://github.com/nerdbond/.github/blob/make/view/fungi.svg?raw=true' height="92"></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
+|                                                [`beat.land`](https://beat.land)                                                | **The World Mythology**                                                                                           |
+|  <a href="https://beat.land"><img src='https://github.com/nerdbond/.github/blob/make/view/rock.svg?raw=true' height="92"></a>  | A modern model of the universe. The museum entrypoint itself.                                                     |
+|                                                [`tune.land`](https://tune.land)                                                | **The Tune Spoken Language**                                                                                      |
+| <a href="https://tune.land"><img src='https://github.com/nerdbond/.github/blob/make/view/fungi.svg?raw=true' height="92"></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
 |                                                [`tone.land`](https://tone.land)                                                | **The Tone Writing System**                                                                                       |
 |  <a href="https://tone.land"><img src='https://github.com/nerdbond/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
 |                                                [`base.link`](https://base.link)                                                | **The BaseLink Programming Language**                                                                             |
@@ -117,11 +117,11 @@ To start, we intensely want to figure out how the universe works and how to evol
 
 ## Storytelling
 
-On [`beat.land`](https://beat.land) we consider the origins and evolution of language in a hypothetical scenario. On [`drum.work`](https://drum.work) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
+On [`tune.land`](https://tune.land) we consider the origins and evolution of language in a hypothetical scenario. On [`beat.land`](https://beat.land) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
 
 ## Language Building
 
-Like mentioned, [`bead`](https://beat.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
+Like mentioned, [`bead`](https://tune.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
 
 We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `bead` as the standard writing system as well.
 
