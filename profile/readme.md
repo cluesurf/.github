@@ -121,9 +121,9 @@ On [`tune.land`](https://tune.land) we consider the origins and evolution of lan
 
 ## Language Building
 
-Like mentioned, [`bead`](https://tune.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
+Like mentioned, [`tune`](https://tune.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
 
-We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `bead` as the standard writing system as well.
+We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `tune` as the standard writing system as well.
 
 ## Music
 
