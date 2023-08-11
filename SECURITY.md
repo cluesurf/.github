@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and general policies for the `tunebond`
+This document outlines security procedures and general policies for the `nerdbond`
 project.
 
 - [Reporting a Bug](#reporting-a-bug)
@@ -9,8 +9,8 @@ project.
 
 ## Reporting a Bug
 
-The `tunebond` team and community take all security bugs in `tunebond` seriously.
-Thank you for improving the security of `tunebond`. We appreciate your efforts and
+The `nerdbond` team and community take all security bugs in `nerdbond` seriously.
+Thank you for improving the security of `nerdbond`. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
