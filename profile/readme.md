@@ -59,8 +59,6 @@ WaveBond is basically trying to synthesize and simplify the knowledge of the wor
 |  <a href="https://tone.land"><img src='https://github.com/wavebond/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.                                           |
 |                                                [`base.link`](https://base.link)                                                | **The BaseLink Programming Language**                                                                             |
 | <a href="https://base.link"><img src='https://github.com/wavebond/base.link/blob/make/view/base.svg?raw=true' height="92"></a> | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
-|                                                [`leaf.show`](https://leaf.show)                                                | **The Leaf Show**                                                                                                 |
-|  <a href="https://leaf.show"><img src='https://github.com/wavebond/.github/blob/make/view/leaf.svg?raw=true' height="92"></a>  | A podcast, which includes interviews and thoughts about the universe.                                             |
 
 ## Open Source Software
 
@@ -111,10 +109,6 @@ We have spent years curating content from the internet, with the goal of cleanin
 
 This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
 
-## Podcasting
-
-To start, we intensely want to figure out how the universe works and how to evolve toward a more peaceful world. We have a lot of questions about a web of topics, and truly want to understand how things work. The academic community, scientific community, open source community, historical community, and many other communities offer their knowledge in casual conversations on their specialties or areas of curiosity. We ask them questions about things we are wondering, and go with the flow in figuring things out to come up with a clearer picture of reality.
-
 ## Storytelling
 
 On [`tune.land`](https://tune.land) we consider the origins and evolution of language in a hypothetical scenario. On [`beat.land`](https://beat.land) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
@@ -124,9 +118,12 @@ On [`tune.land`](https://tune.land) we consider the origins and evolution of lan
 Like mentioned, [`tune`](https://tune.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
 
 We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `tune` as the standard writing system as well.
+<<<<<<< HEAD
 
 ## Music
 
 We play with beats and rhythms and melodies to explore the evolution of our ancient ancestors through musical understanding.
 
-<p align='center'><img src='https://github.com/wavebond/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
+# <p align='center'><img src='https://github.com/wavebond/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
+
+> > > > > > > 77e127e681e6365328a811eb56c5369cda6cd425
