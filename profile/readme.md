@@ -29,7 +29,7 @@ And appeals to you through hide and seek<br/>
 
 <p align='center'><em>
 Use your heart to find the key<br/>
-The <a href='https://github.com/wavebond/base.link'>base</a> <a href='https://github.com/wavebond/link'>link</a> knows to plant the seed<br/>
+The <a href='https://github.com/wavebond/base.link'>base</a> <a href='https://github.com/wavebond/link'>link</a> plants the seed<br/>
 A dark energy finds your need<br/>
 And appeals to you through hide and seek<br/>
 </em></p>
