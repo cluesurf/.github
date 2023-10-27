@@ -39,7 +39,7 @@ Welcome to WaveBond's page, focusing on a few main things:
 1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
 1. **story**: Sharing learnings in the form of stories or philosophical conversations.
 
-WaveBond is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, we've created a few sites to share what we've come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
+WaveBond is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
