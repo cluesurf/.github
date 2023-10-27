@@ -111,8 +111,4 @@ Like mentioned, [`tune`](https://tune.land) is a language we derived from imagin
 
 We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `tune` as the standard writing system as well.
 
-## Music
-
-We play with beats and rhythms and melodies to explore the evolution of our ancient ancestors through musical understanding.
-
 <p align='center'><img src='https://github.com/wavebond/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
