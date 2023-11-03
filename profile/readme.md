@@ -93,17 +93,13 @@ The following table outlines the key projects and their overall purpose, so you 
 
 We are just beginning, so _much_ work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
 
-## Information Curation
+## Structured Data Curation
 
 We have spent years curating content from the internet, with the goal of cleaning it up and making it freely available (like Wikipedia, for data people, researchers, software engineers, and the general public, etc.). We have gone through several iterations or generations of cleaned content and data, but never got to the point where we thought it was good enough to release.
 
-## Data Modeling
+Take a look at the [`seed`](https://github.com/wavebond/seed) project for more information on the community collected open data so far collected. It covers things like language/dictionary data, literature data, number data, organization and people data, and potentially many other things in the future as we become aware of it. Also see the [`form`](https://github.com/wavebond/form) repo, specifically the short "book" in there, to see the schemas / type definitions we have for much of the seed project as well.
 
-This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
-
-## Storytelling
-
-On [`tune.land`](https://tune.land) we consider the origins and evolution of language in a hypothetical scenario. On [`beat.land`](https://beat.land) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
+A major goal of the whole project is to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
 
 ## Language Building
 
