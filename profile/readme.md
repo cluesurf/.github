@@ -9,27 +9,19 @@
 <p align='center'><em>
 Way back in a simpler time<br/>
 The great mother showed you rhyme<br/>
-A dark energy finds your need<br/>
-And appeals to you through hide and seek<br/>
-</em></p>
-
-<p align='center'><em>
-Within networks cool and keen<br/>
-The <a href='https://github.com/textsurf/tone'>tone</a> vibes pleasantly between<br/>
-A dark energy finds your need<br/>
-And appeals to you through hide and seek<br/>
 </em></p>
 
 <p align='center'><em>
 Way down in the feeling tree<br/>
 The mind calms and urges lead<br/>
-A dark energy finds your need<br/>
-And appeals to you through hide and seek<br/>
 </em></p>
 
 <p align='center'><em>
 Use your heart to find the key<br/>
-The <a href='https://github.com/textsurf/base.link'>base</a> <a href='https://github.com/textsurf/link'>link</a> knows to plant the seed<br/>
+The <a href='https://github.com/textsurf/base.link'>base</a> <a href='https://github.com/textsurf/link'>link</a> plants the seed<br/>
+</em></p>
+
+<p align='center'><em>
 A dark energy finds your need<br/>
 And appeals to you through hide and seek<br/>
 </em></p>
@@ -40,14 +32,14 @@ And appeals to you through hide and seek<br/>
 
 ## Introduction
 
-Welcome to TextSurf's page. We work with a few main things:
+Welcome to TextSurf's page, focusing on a few main things:
 
-1. **software**: Open source software experimentation is our passion project.
-1. **knowledge**: Understanding how the universe works and modeling information is our main drive.
+1. **software**: Open source software experimentation is the passion project.
+1. **knowledge**: Understanding how the universe works and modeling information is the main drive.
 1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
-1. **story**: Sharing what we've learned in the form of stories or philosophical conversations.
+1. **story**: Sharing learnings in the form of stories or philosophical conversations.
 
-TextSurf is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, we've created a few sites to share what we've come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
+TextSurf is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -62,9 +54,9 @@ TextSurf is basically trying to synthesize and simplify the knowledge of the wor
 
 ## Open Source Software
 
-One of our biggest passion projects is to have one programming language or tool to build all possibilities of software apps and libraries. Something like [Rails](https://rubyonrails.org), where everything is streamlined and out of the way so you can focus on your main task instead of wrangling code. Combined with something like [Haxe](https://haxe.org/) or [Dart](https://dart.dev/) where it compiles down to every platform natively. We are deep into the programming and computer science worlds, having been working toward this goal for several years. There's still a huge amount of work that remains to be done, and like mentioned earlier, we are still defining the look and feel of everything at this point, only barely scratching the surface in terms of making the code run.
+The main passion project is to have one programming language or tool to build all possibilities of software apps and libraries. Something like [Rails](https://rubyonrails.org), where everything is streamlined and out of the way so you can focus on your main task instead of wrangling code. Combined with something like [Haxe](https://haxe.org/) or [Dart](https://dart.dev/) where it compiles down to every platform natively. We are deep into the programming and computer science worlds, having been working toward this goal for several years. There's still a huge amount of work that remains to be done, and like mentioned earlier, the look and feel of everything is still being defined at this point, only barely scratching the surface in terms of making the code run.
 
-We wrote [`link`](https://github.com/textsurf/link), a super minimal tree-based data modeling language sort of like YAML/JSON/XML, which is in some ways more readable and concise than them. That project is basically finished. The spec is defined in that repo, and a primitive parser is implemented to convert link text into a tree. The next step is taking the link tree and compiling it into runnable code via [`base.link`](https://github.com/textsurf/base.link).
+There is [`link`](https://github.com/textsurf/link), a super minimal tree-based data modeling language sort of like YAML/JSON/XML, which is in some ways more readable and concise than them. That project is basically finished. The spec is defined in that repo, and a primitive parser is implemented to convert link text into a tree. The next step is taking the link tree and compiling it into runnable code via [`base.link`](https://github.com/textsurf/base.link).
 
 The **goal** here is to create a suite of tools to write code in one language, Link, and have it work cross-platform in an optimized way. This means compiling the Link Text into Swift for iOS/MacOS/etc., Rust for Linux server-side, Kotlin for Android, and JavaScript for Windows, the Browser, and Node.js. But many of the projects are written in such a way as to be language agnostic. That is, you can use the definitions, which are written in `link`, as you would any JSON object in your standard programming language.
 
@@ -101,26 +93,18 @@ The following table outlines the key projects and their overall purpose, so you 
 
 We are just beginning, so _much_ work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
 
-## Information Curation
+## Structured Data Curation
 
 We have spent years curating content from the internet, with the goal of cleaning it up and making it freely available (like Wikipedia, for data people, researchers, software engineers, and the general public, etc.). We have gone through several iterations or generations of cleaned content and data, but never got to the point where we thought it was good enough to release.
 
-## Data Modeling
+Take a look at the [`seed`](https://github.com/textsurf/seed) project for more information on the community collected open data so far collected. It covers things like language/dictionary data, literature data, number data, organization and people data, and potentially many other things in the future as we become aware of it. Also see the [`form`](https://github.com/textsurf/form) repo, specifically the short "book" in there, to see the schemas / type definitions we have for much of the seed project as well.
 
-This is the main goal of the whole project, to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
-
-## Storytelling
-
-On [`tune.land`](https://tune.land) we consider the origins and evolution of language in a hypothetical scenario. On [`beat.land`](https://beat.land) we coordinate scientific and spiritual knowledge into a mythology of our creation on Earth.
+A major goal of the whole project is to have a model of the universe, a working model, a way to understand how things work. In addition, there is the technical aspect of figuring out how to structure this data for computers. So we are constantly brainstorming ways to come up with models of things so they are easy for software engineers and computers to make use of.
 
 ## Language Building
 
 Like mentioned, [`tune`](https://tune.land) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
 
 We also created [`tone`](https://tone.land), a writing system for the languages of Earth. It is used in `tune` as the standard writing system as well.
-
-## Music
-
-We play with beats and rhythms and melodies to explore the evolution of our ancient ancestors through musical understanding.
 
 <p align='center'><img src='https://github.com/textsurf/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
