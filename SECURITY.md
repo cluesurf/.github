@@ -1,6 +1,6 @@
 # Security Policies and Procedures
 
-This document outlines security procedures and general policies for the `wavebond`
+This document outlines security procedures and general policies for the `textsurf`
 project.
 
 - [Reporting a Bug](#reporting-a-bug)
@@ -9,8 +9,8 @@ project.
 
 ## Reporting a Bug
 
-The `wavebond` team and community take all security bugs in `wavebond` seriously.
-Thank you for improving the security of `wavebond`. We appreciate your efforts and
+The `textsurf` team and community take all security bugs in `textsurf` seriously.
+Thank you for improving the security of `textsurf`. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
