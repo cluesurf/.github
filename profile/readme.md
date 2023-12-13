@@ -39,7 +39,11 @@ Welcome to TermSurf's page, focusing on a few main things:
 1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
 1. **story**: Sharing learnings in the form of stories or philosophical conversations.
 
-TermSurf is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works. As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
+TermSurf is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works.
+
+We are creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
+
+As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
 |                                                              Site                                                              | Note                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
@@ -95,8 +99,8 @@ We are just beginning, so _much_ work is being done on the specifications, with 
 
 ## Language Building
 
-Like mentioned, [`tune`](https://tune.surf) is a language we derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress.
+At first there was the [`tone`](https://tone.surf) script, a writing system like the ancient runes that can encode any language on Earth in a concise and readable way using simple glyphs you could either carve on a rock, make out of sticks, or draw with a pen. It is built around tones, the vowel and consonant sounds, and there are 36 base glyphs, with special markers for things like tone in Chinese, and other important features. It is instantiated into a TypeScript library so you can convert an ASCII representation into the format used by the main font, ToneEtch.
 
-We also created [`tone`](https://tone.surf), a writing system for the languages of Earth. It is used in `tune` as the standard writing system as well.
+Then there was [`tune`](https://tune.surf), a language derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress. The goal here is to create a an intermediary framework for representing knowledge, for creating a way to conjure up "fantasy" words so we can name things which don't have names, to explore new concepts and ways of thinking.
 
 <p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
