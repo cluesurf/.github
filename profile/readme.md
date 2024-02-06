@@ -53,8 +53,10 @@ As such, here a few sites to share what's been come up with so far, even though 
 |   <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/bird.svg?raw=true' height="92"></a>    | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
 |                                                [`form.surf`](https://form.surf)                                                | **World Form Definition Wiki**                                                                                    |
 |  <a href="https://form.surf"><img src='https://github.com/termsurf/.github/blob/make/view/rock.svg?raw=true' height="92"></a>  | A modern model of the universe. The museum entrypoint itself.                                                     |
-|                                                [`seed.surf`](https://seed.surf)                                                | **The SeedLeaf Package Manager**                                                                                  |
-| <a href="https://seed.surf"><img src='https://github.com/termsurf/seed.leaf/blob/make/view/base.svg?raw=true' height="92"></a> | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
+|                                                [`leaf.surf`](https://leaf.surf)                                                | **The LeafText Data Modeling Language Docs**                                                                      |
+|   <a href="https://leaf.surf"><img src='https://github.com/termsurf/leaf/blob/make/view/link.svg?raw=true' height="92"></a>    | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
+|                                                [`seed.surf`](https://seed.surf)                                                | **The LeafText Programming Framework SeedLeaf**                                                                   |
+| <a href="https://seed.surf"><img src='https://github.com/termsurf/seed.leaf/blob/make/view/base.svg?raw=true' height="92"></a> | A "programming framework" built on top of LeafText, transforming it into something like code.                     |
 
 ## Open Source Software
 
