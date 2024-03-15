@@ -51,12 +51,12 @@ As such, here a few sites to share what's been come up with so far, even though 
 | <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a>  | A simplified and uniform writing system for all the languages of Earth.                                           |
 |                                               [`tune.surf`](https://tune.surf)                                               | **The Tune Spoken Language**                                                                                      |
 |  <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/view.svg?raw=true' height="92"></a>   | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
-|                                               [`form.surf`](https://form.surf)                                               | **World Form Definition Wiki**                                                                                    |
-| <a href="https://form.surf"><img src='https://github.com/termsurf/.github/blob/make/view/rock.svg?raw=true' height="92"></a> | A modern model of the universe. The museum entrypoint itself.                                                     |
 |                                               [`note.surf`](https://note.surf)                                               | **The NoteText Data Modeling Language Docs**                                                                      |
 |  <a href="https://note.surf"><img src='https://github.com/termsurf/note/blob/make/view/note.svg?raw=true' height="92"></a>   | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
 |                                               [`star.surf`](https://star.surf)                                               | **The NoteText Programming Framework Star**                                                                       |
 |  <a href="https://star.surf"><img src='https://github.com/termsurf/star/blob/make/view/star.svg?raw=true' height="92"></a>   | A "programming framework" built on top of NoteText, transforming it into something like code.                     |
+|                                               [`form.surf`](https://form.surf)                                               | **Formal Models and Patterns**                                                                                    |
+| <a href="https://form.surf"><img src='https://github.com/termsurf/.github/blob/make/view/rock.svg?raw=true' height="92"></a> | A book on formal models and patterns to show how the universe works.                                              |
 
 ## Open Source Software
 
