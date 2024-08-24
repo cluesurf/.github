@@ -18,7 +18,7 @@ The mind calms and urges lead<br/>
 
 <p align='center'><em>
 Use your heart to find the flow<br/>
-The <a href='https://github.com/termsurf/note'>note</a> <a href='https://github.com/termsurf/tree'>tree</a> is some gold<br/>
+The <a href='https://github.com/termsurf/note'>note</a> <a href='https://github.com/termsurf/tree'>tree</a> is a helpful road<br/>
 </em></p>
 
 <p align='center'><em>
