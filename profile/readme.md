@@ -2,33 +2,8 @@
 <br/>
 <br/>
 
-<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/mountains.svg?raw=true' height='256'></a></p>
-
-<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/monkey.svg?raw=true' height='256'></a></p>
-
-<p align='center'><em>
-Way back in a simpler time<br/>
-The great mother showed you rhyme<br/>
-</em></p>
-
-<p align='center'><em>
-Way down in the feeling tree<br/>
-The mind calms and urges lead<br/>
-</em></p>
-
-<p align='center'><em>
-Use your heart to find the flow<br/>
-The <a href='https://github.com/termsurf/note'>note</a> <a href='https://github.com/termsurf/tree'>tree</a> is a helpful road<br/>
-</em></p>
-
-<p align='center'><em>
-A dark energy finds your need<br/>
-And appeals to you through hide and seek<br/>
-</em></p>
-
-<p align='center'>
-  <img src='https://github.com/termsurf/.github/blob/make/view/bush.svg?raw=true' height='312'>
-</p>
+<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/rabbit.logo.png?raw=true' height='256'></a></p>
+<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/term.logo.png?raw=true' height='256'></a></p>
 
 ## Preliminary
 
