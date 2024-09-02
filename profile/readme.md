@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/rabbit-term.logo.png?raw=true' height='600'></a></p>
+<p align='center'><img src='https://github.com/termsurf/.github/blob/make/view/rabbit-term.png?raw=true' height='600'></a></p>
 
 ## Preliminary
 
