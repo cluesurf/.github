@@ -40,15 +40,9 @@ TermSurf is basically trying to synthesize and simplify the knowledge of the wor
 
 The projects by TermSurf are for unrolling the carpet of these "come-across" patterns and processes for everyone to see and gain a whole new awareness about reality. Together as a team we can slowly find a whole array of patterns of various types and kinds, but for now we have just experienced a few of them so far, and wanted to share the notes in the form of various web projects.
 
-The projects range from a language system involving the programming framework Nest, on top of the source code written in TreeCode, to a writing system Tone, using simple reflections and tails on 3 base glyphs generated from 3 base vowels, to write, using a pen or a rock etch, our spoken language, or the programming language. And a spoken language Tune to bridge the gap between computational information and natural imagination. They also include some digital tools to make life better and explore the patterns more intricately, such as natural language dictionaries, musical tracks, common reusable data, and other important things for preserving the knowledge (in concise form) of what we have unraveled so far up to today.
+The tools range from a language system involving the programming framework Nest, on top of the source code written in TreeCode, to a writing system Tone, using simple reflections and tails on 3 base glyphs generated from 3 base vowels, to write, using a pen or a rock etch, our spoken language, or the programming language. And a spoken language Tune to bridge the gap between computational information and natural imagination. They also include some digital tools to make life better and explore the patterns more intricately, such as natural language dictionaries, musical tracks, common reusable data, and other important things for preserving the knowledge (in concise form) of what we have unraveled so far up to today.
 
-The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
-
-TermSurf is creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
-
-As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
-
-|                                                              Site                                                              | Note                                                                             |
+|                                                              Tool                                                              | Note                                                                             |
 | :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
 |                                                [`tone.surf`](https://tone.surf)                                                | **Tone: A Cross-Cultural Writing System**                                        |
 |  <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.          |
@@ -58,6 +52,10 @@ As such, here a few sites to share what's been come up with so far, even though 
 |   <a href="https://tree.surf"><img src='https://github.com/termsurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>    | A "modeling language" where you write in concise and minimalistic trees of text. |
 |                                                [`text.surf`](https://text.surf)                                                | **TextTree: A TreeCode Programming Framework**                                   |
 | <a href="https://text.surf"><img src='https://github.com/termsurf/text.tree/blob/make/view/tree.gif?raw=true' height="92"></a> | A "programming framework" so you can code using TreeCode.                        |
+
+The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
+
+TermSurf is creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
 
 ## Open Source Software
 
