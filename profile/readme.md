@@ -48,16 +48,14 @@ TermSurf is creating a next generation data modeling framework, and APIs for the
 
 As such, here a few sites to share what's been come up with so far, even though it is far far from being "finished". Each of these projects are very much a work in progress, most of them are just in the creative design phase, with some basic development underway.
 
-|                                                             Site                                                             | Note                                                                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
-|                                               [`tone.surf`](https://tone.surf)                                               | **Tone: A Cross-Cultural Writing System**                                                                         |
-| <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a>  | A simplified and uniform writing system for all the languages of Earth.                                           |
-|                                               [`tune.surf`](https://tune.surf)                                               | **Tune: An Intermediate Constructed Language**                                                                    |
-|  <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/view.svg?raw=true' height="92"></a>   | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
-|                                               [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Data Modeling Language**                                                                            |
-|  <a href="https://tree.surf"><img src='https://github.com/termsurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>   | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
-|                                               [`form.surf`](https://form.surf)                                               | **FormSurf: Formal Models and Patterns Wiki**                                                                     |
-| <a href="https://form.surf"><img src='https://github.com/termsurf/.github/blob/make/view/rock.svg?raw=true' height="92"></a> | A book on formal models and patterns to show how the universe works.                                              |
+|                                                            Site                                                             | Note                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------- |
+|                                              [`tone.surf`](https://tone.surf)                                               | **Tone: A Cross-Cultural Writing System**                                                                         |
+| <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a> | A simplified and uniform writing system for all the languages of Earth.                                           |
+|                                              [`tune.surf`](https://tune.surf)                                               | **Tune: An Intermediate Constructed Language**                                                                    |
+|  <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/view.svg?raw=true' height="92"></a>  | A natural language of a minimal memorizable set of concepts, used to model and play with reality in a deeper way. |
+|                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Data Modeling Language**                                                                            |
+|  <a href="https://tree.surf"><img src='https://github.com/termsurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A "modeling language" where you write in concise and minimalistic trees of text.                                  |
 
 ## Open Source Software
 
