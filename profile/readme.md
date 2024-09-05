@@ -42,16 +42,14 @@ The projects by TermSurf are for unrolling the carpet of these "come-across" pat
 
 The tools range from a language system involving the programming framework Nest, on top of the source code written in TreeCode, to a writing system Tone, using simple reflections and tails on 3 base glyphs generated from 3 base vowels, to write, using a pen or a rock etch, our spoken language, or the programming language. And a spoken language Tune to bridge the gap between computational information and natural imagination. They also include some digital tools to make life better and explore the patterns more intricately, such as natural language dictionaries, musical tracks, common reusable data, and other important things for preserving the knowledge (in concise form) of what we have unraveled so far up to today.
 
-|                                                              Tool                                                              | Note                                                                             |
-| :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
-|                                                [`tone.surf`](https://tone.surf)                                                | **Tone: A Cross-Cultural Writing System**                                        |
-|  <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a>   | A simplified and uniform writing system for all the languages of Earth.          |
-|                                                [`tune.surf`](https://tune.surf)                                                | **Tune: An Intermediate Constructed Language**                                   |
-|   <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/view.svg?raw=true' height="92"></a>    | A natural language used to model and play with reality in a deeper way.          |
-|                                                [`tree.surf`](https://tree.surf)                                                | **TreeCode: A Data Modeling Language**                                           |
-|   <a href="https://tree.surf"><img src='https://github.com/termsurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>    | A "modeling language" where you write in concise and minimalistic trees of text. |
-|                                                [`text.surf`](https://text.surf)                                                | **TextTree: A TreeCode Programming Framework**                                   |
-| <a href="https://text.surf"><img src='https://github.com/termsurf/text.tree/blob/make/view/tree.gif?raw=true' height="92"></a> | A "programming framework" so you can code using TreeCode.                        |
+|                                                            Tool                                                             | Note                                                                             |
+| :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
+|                                              [`tone.surf`](https://tone.surf)                                               | **Tone: A Cross-Cultural Writing System**                                        |
+| <a href="https://tone.surf"><img src='https://github.com/termsurf/.github/blob/make/view/owl.svg?raw=true' height="92"></a> | A simplified and uniform writing system for all the languages of Earth.          |
+|                                              [`tune.surf`](https://tune.surf)                                               | **Tune: An Intermediate Constructed Language**                                   |
+|  <a href="https://tune.surf"><img src='https://github.com/termsurf/tune/blob/make/view/view.svg?raw=true' height="92"></a>  | A natural language used to model and play with reality in a deeper way.          |
+|                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Data Modeling Language**                                           |
+|  <a href="https://tree.surf"><img src='https://github.com/termsurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A "modeling language" where you write in concise and minimalistic trees of text. |
 
 The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
 
