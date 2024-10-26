@@ -1,6 +1,6 @@
 name: Contribution License Agreement (CLA)
 description: Sign the CLA
-title: "[CLA]: "
+title: "[CLA]: <@yourusername> Signing"
 labels: ["cla"]
 projects: ["termsurf/text.js"]
 assignees:
