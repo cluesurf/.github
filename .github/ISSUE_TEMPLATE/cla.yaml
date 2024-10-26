@@ -9,7 +9,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for wanting or working on contributing some code changes to our projects!
+
+        In order for us to accept your code change, you must sign a Contribution License Agreement (CLA) before your PR will be merged. This a one-time requirement for TermSurf projects on GitHub. You can read more about [Contribution License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
+
+        Basically, this CLA allows TermSurf to use, modify, and distribute contributions you make to their open-source projects, with a perpetual, worldwide license for both copyright and patents. You affirm that your submissions are original or properly attributed, and if made on behalf of an employer, you have obtained the necessary permissions.
+
+        Once you have signed a CLA, the current and all future pull-requests will be labeled as cla-signed.
+
+        Signing the CLA might sound scary but it's actually very simple and can be done in less than a minute.
   - type: input
     id: name
     attributes:
