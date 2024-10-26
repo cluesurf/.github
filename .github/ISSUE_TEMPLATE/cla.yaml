@@ -51,7 +51,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: I Agree to the [CLA](https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md)
+      label: I Agree to the CLA
       description: |
         By submitting this issue, you agree to the [CLA](https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md). _Select one option below._ Note: **Individual** means you are _not_ contributing on behalf of an employer, while **Employee** means you _are_ contributing on behalf of an employer (this option is more rare).
       options:
@@ -59,3 +59,8 @@ body:
             **Individual**: I have sole ownership of intellectual property rights to my Submissions and I am not making Submissions in the course of work for my employer.
         - label: |
             **Employee**: I am making Submissions in the course of work for my employer (or my employer has intellectual property rights in my Submissions by contract or applicable law). I have permission from my employer to make Submissions and enter into this Agreement on behalf of my employer. By signing below, the defined term "You" includes me and my employer.
+  - type: textarea
+    attributes:
+      label: CLA Link
+      value: |
+        https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md
