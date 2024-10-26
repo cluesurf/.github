@@ -11,9 +11,9 @@ body:
       value: |
         Thanks for wanting or working on contributing some code changes to our projects!
 
-        In order for us to accept your code change, you must sign a Contribution License Agreement (CLA) before your PR will be merged. This a one-time requirement for TermSurf projects on GitHub. You can read more about [Contribution License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
+        In order for us to accept your code change, you must sign our [Contribution License Agreement (CLA)](https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md) before your PR will be merged. This a one-time requirement for TermSurf projects on GitHub. You can read more about [Contribution License Agreements](https://en.wikipedia.org/wiki/Contributor_License_Agreement) on Wikipedia.
 
-        Basically, this CLA allows TermSurf to use, modify, and distribute contributions you make to their open-source projects, with a perpetual, worldwide license for both copyright and patents. You affirm that your submissions are original or properly attributed, and if made on behalf of an employer, you have obtained the necessary permissions.
+        Basically, this [CLA](https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md) allows TermSurf to use, modify, and distribute contributions you make to their open-source projects, with a perpetual, worldwide license for both copyright and patents. You affirm that your submissions are original or properly attributed, and if made on behalf of an employer, you have obtained the necessary permissions.
 
         Once you have signed a CLA, the current and all future pull-requests will be labeled as cla-signed.
 
