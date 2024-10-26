@@ -45,6 +45,7 @@ body:
     id: company
     attributes:
       label: Company Name
+      description: Only need to put a company name if you mark "Employee" down below, if you are not contributing this as an individual.
     validations:
       required: false
   - type: checkboxes
