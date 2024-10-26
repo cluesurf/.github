@@ -1,0 +1,51 @@
+name: Contribution License Agreement (CLA)
+description: Sign the CLA
+title: "[CLA]: "
+labels: ["cla"]
+projects: ["termsurf/text.js"]
+assignees:
+  - lancejpollard
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: name
+    attributes:
+      label: Name ("You")
+      description: Your full name
+      placeholder: eg. Jane Smith
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: Today's Date
+      placeholder: eg. Dec 12, 2023
+    validations:
+      required: true
+  - type: input
+    id: username
+    attributes:
+      label: GitHub Username
+      placeholder: eg. @foobar
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: I Agree to the CLA (select one)
+      description: By submitting this issue, you agree to the [CLA](https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md).
+      options:
+        - label: |
+            **Individual**: I have sole ownership of intellectual property rights to my Submissions and I am not making Submissions in the course of work for my employer.
+        - label: |
+            **Employee**: I am making Submissions in the course of work for my employer (or my employer has intellectual property rights in my Submissions by contract or applicable law). I have permission from my employer to make Submissions and enter into this Agreement on behalf of my employer. By signing below, the defined term "You" includes me and my employer.
