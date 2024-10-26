@@ -64,3 +64,5 @@ body:
       label: CLA Link
       value: |
         https://github.com/termsurf/.github/blob/abc3b8c8016e13cc709520969370076ac5ee1d17/CONTRIBUTION_LICENSE_AGREEMENT.md
+    validations:
+      required: true
