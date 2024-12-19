@@ -9,12 +9,12 @@ project.
 
 ## Reporting a Bug
 
-The `termsurf` team and community take all security bugs in `termsurf` seriously.
-Thank you for improving the security of `termsurf`. We appreciate your efforts and
+The `termsurf` team and community take all security bugs in `cluesurf` seriously.
+Thank you for improving the security of `cluesurf`. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
-Report security bugs by emailing the lead maintainer at lancejpollard@gmail.com.
+Report security bugs by emailing the lead maintainer at lp@elk.fm.
 
 The lead maintainer will acknowledge your email within 48 hours, and will send a
 more detailed response within 48 hours indicating the next steps in handling
