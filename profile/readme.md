@@ -2,28 +2,24 @@
 <br/>
 <br/>
 
-<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/rabbit-term.png?raw=true' height='600'></a></p>
+<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/monkey.svg?raw=true' height='600'></a></p>
 
 ## Preliminary
 
-ClueSurf is a theoretically decentralized organization that is run by a decentralized group of individuals. The organization works on simplifying models of reality, and creating a narrative to describe and share how reality works, so that one may master their life and experience, and relationship to the whole.
-
-ClueSurf is an open community of people interested in exploring the possibilities with an open mind and open heart. We listen to everyone's perspective and communicate directly to what is being said, so that we can together move forward in conversation and not get stuck battling each other over meaningless stuff. We do our best to make logical links between statements in a conversation, even if the formal model takes some hypothetical assumptions for granted, so as to make all of the models consistent throughout. We don't assume we know everything without showing the logical links we used to get to what we are discussing.
-
-If this sounds like something you are interested in exploring, something that you already do to some degree because it's your thing, reach out to `base@clue.surf` and we will add you to the list.
+ClueSurf is but a container for collecting and organizing useful stuff for understanding and exploring the universe. It is not really an "organization", or a group, but more like an identifier in a sea of names, to collect projects and works found interesting.
 
 ## Introduction
 
-Welcome to ClueSurf's page, focusing on a few main things:
+Currently focusing on a few things:
 
 1. **software**: Open source software experimentation is the passion project.
 1. **knowledge**: Understanding how the universe works and modeling information is the main drive.
 1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
 1. **story**: Sharing learnings in the form of stories or philosophical conversations.
 
-ClueSurf is basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works.
+Basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works.
 
-The projects by ClueSurf are for unrolling the carpet of these "come-across" patterns and processes for everyone to see and gain a whole new awareness about reality. Together as a team we can slowly find a whole array of patterns of various types and kinds, but for now we have just experienced a few of them so far, and wanted to share the notes in the form of various web projects.
+The projects so far are for unrolling the carpet of these "come-across" patterns and processes for everyone to see and gain a whole new awareness about reality. Together we can slowly find a whole array of patterns of various types and kinds, but for now we have just experienced a few of them so far, and wanted to share the notes in the form of various projects.
 
 The tools range from a language system involving the programming framework TermTree, on top of the source code written in TreeCode, to a writing system Tone, using simple reflections and tails on 3 base glyphs generated from 3 base vowels, to write, using a pen or a rock etch, our spoken language, or the programming language. And a spoken language Tune to bridge the gap between computational information and natural imagination. They also include some digital tools to make life better and explore the patterns more intricately, such as natural language dictionaries, musical tracks, common reusable data, and other important things for preserving the knowledge (in concise form) of what we have unraveled so far up to today.
 
@@ -38,7 +34,7 @@ The tools range from a language system involving the programming framework TermT
 
 The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
 
-ClueSurf is creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
+Started creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
 
 ## Open Source Software
 
