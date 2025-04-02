@@ -26,7 +26,7 @@ The tools range from a language system involving the programming framework StarT
 |                                                            Tool                                                             | Note                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
 |                                              [`tone.surf`](https://tone.surf)                                               | **Tone: A Cross-Cultural Writing System**                                        |
-| <a href="https://tone.surf"><img src='https://github.com/cluesurf/.github/blob/make/view/flame.gif?raw=true' height="92"></a> | A simplified and uniform writing system for all the languages of Earth.          |
+| <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/flame.gif?raw=true' height="92"></a> | A simplified and uniform writing system for all the languages of Earth.          |
 |                                              [`tune.surf`](https://tune.surf)                                               | **Tune: An Intermediate Constructed Language**                                   |
 |  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/base.svg?raw=true' height="92"></a>  | A natural language used to model and play with reality in a deeper way.          |
 |                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Data Modeling Language**                                           |
