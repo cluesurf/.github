@@ -16,7 +16,7 @@ We build things to model reality and make knowledge easier to understand.
 
 ## Focus
 
-We're working on four themes:
+Working on four themes:
 
 1. **Software**: Open source tools and experiments.
 2. **Knowledge**: Modeling how the universe fits together.
@@ -49,7 +49,7 @@ The goal is to model and explore ideas using simple systems.
 We want to build tools to create apps easily and clearly.
 Like Rails, Haxe, or Dart, but more flexible and more beautiful.
 
-We're working on a core language called **TreeCode**.
+Working on a core language called **TreeCode**.
 It's like JSON or YAML, but simpler and more readable.
 From TreeCode, we compile into native code using **StarTree**.
 
@@ -59,7 +59,7 @@ Here's the plan:
 - Compile to JavaScript, Swift, Rust, and Kotlin.
 - Use a shared library of types and patterns.
 
-We're starting with JavaScript and Node.js support.
+Starting with JavaScript and Node.js support.
 More platforms will follow.
 
 ### Key TreeCode Repos
@@ -91,7 +91,7 @@ You can write with a pen, stick, or stylus.
 There are 36 base glyphs, plus tone markers.
 
 A TypeScript library turns text into this format.
-We use a font called ToneEtch.
+Made this into a font called ToneEtch.
 
 ### Tune
 
@@ -100,6 +100,6 @@ It started from imagining how ancient people might have spoken.
 It can be used to name new ideas and create stories.
 
 It helps you think and describe things in new ways.
-We see it as a bridge between human thought and code.
+The goal is to make it a bridge between human thought and code.
 
 <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/stream.svg?raw=true' height='512'></p>
