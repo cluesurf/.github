@@ -12,7 +12,7 @@ ClueSurf is a collection of projects about software, language, and the universe.
 It's not necessarily an organization or team, just a place to group related work under one name.
 
 The main goal is to explore how the universe works and share tools, languages, and ideas on it.
-We build things to model reality and make knowledge easier to understand.
+Building things to model reality and make knowledge easier to understand.
 
 ## Focus
 
