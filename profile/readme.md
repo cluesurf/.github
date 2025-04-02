@@ -83,7 +83,7 @@ Specs are being defined and tested.
 
 ### Tone
 
-[**Tone**](https://github.com/cluesurf/tone is a writing system made from simple shapes.
+[**Tone**](https://github.com/cluesurf/tone) is a writing system made from simple shapes.
 It can be used for any spoken language.
 You can write with a pen, stick, or stylus.
 There are 36 base glyphs, plus tone markers.
@@ -93,7 +93,7 @@ Made this into a font called ToneEtch.
 
 ### Tune
 
-[**Tune**](https://github.com/cluesurf/tune is a made-up language for modeling thoughts.
+[**Tune**](https://github.com/cluesurf/tune) is a made-up language for modeling thoughts.
 It started from imagining how ancient people might have spoken.
 It can be used to name new ideas and create stories.
 
