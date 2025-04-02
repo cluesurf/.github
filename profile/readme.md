@@ -94,4 +94,4 @@ It can be used to name new ideas and create stories.
 It helps you think and describe things in new ways.
 The goal is to make it a bridge between human thought and code.
 
-<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/stream.svg?raw=true' height='512'></p>
+<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/bush.svg?raw=true' height='192'></p>
