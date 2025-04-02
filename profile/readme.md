@@ -65,13 +65,11 @@ More platforms will follow.
 | Project | Purpose |
 |---------|---------|
 | [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser. |
-| [`star.tree`](https://github.com/cluesurf/star.tree) | Compiler and runtime for TreeCode. |
+| [`star.tree`](https://github.com/cluesurf/star.tree) | Reactive compiler for TreeCode. |
 | [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform. |
 | [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data. |
 | [`deck.tree`](https://github.com/cluesurf/deck.tree) | TreeCode package manager. |
-| [`make.tree`](https://github.com/cluesurf/make.tree) | Compiler logic and transformations. |
 | [`flow.tree`](https://github.com/cluesurf/flow.tree) | Code/data runtime environment. |
-| [`view.tree`](https://github.com/cluesurf/view.tree) | UI and graphics framework. |
 | [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations. |
 | [`code.tree`](https://github.com/cluesurf/code.tree) | Grammars for converting text/data. |
 | [`form.tree`](https://github.com/cluesurf/form.tree) | Math and formal systems. |
