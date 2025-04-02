@@ -12,10 +12,10 @@ ClueSurf is but a container for collecting and organizing useful stuff for under
 
 Currently focusing on a few things:
 
-1. **software**: Open source software experimentation is the passion project.
-1. **knowledge**: Understanding how the universe works and modeling information is the main drive.
-1. **language**: Modeling things in natural language or code gives a deeper sense of reality.
-1. **story**: Sharing learnings in the form of stories or philosophical conversations.
+1. **Software**: Open source software experimentation is the passion project.
+1. **Knowledge**: Understanding how the universe works and modeling information is the main drive.
+1. **Language**: Modeling things in natural language or code gives a deeper sense of reality.
+1. **Story**: Sharing learnings in the form of stories or philosophical conversations.
 
 Basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works.
 
