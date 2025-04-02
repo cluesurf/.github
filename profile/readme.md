@@ -62,8 +62,6 @@ Here's the plan:
 Starting with JavaScript and Node.js support.
 More platforms will follow.
 
-### Key TreeCode Repos
-
 | Project | Purpose |
 |---------|---------|
 | [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser. |
