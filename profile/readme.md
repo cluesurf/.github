@@ -75,7 +75,7 @@ More platforms will follow.
 | [`flow.tree`](https://github.com/cluesurf/flow.tree) | Code/data runtime environment. |
 | [`view.tree`](https://github.com/cluesurf/view.tree) | UI and graphics framework. |
 | [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations. |
-| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammar for converting text/data. |
+| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammars for converting text/data. |
 | [`form.tree`](https://github.com/cluesurf/form.tree) | Math and formal systems. |
 
 These projects are still in early stages.
