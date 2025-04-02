@@ -30,7 +30,9 @@ The tools range from a language system involving the programming framework StarT
 |                                              [`tune.surf`](https://tune.surf)                                               | **Tune: A Thinking Language**                                   |
 |  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a>  | A constructed language used to model and play with reality in a deeper way.          |
 |                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Modeling Notation**                                           |
-|  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A "modeling language" where you write in concise and minimalistic trees of text. |
+|  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A "modeling language" where you write in concise and minimalistic trees of text. |   |
+|                                              [`star.surf`](https://star.surf)                                               | **StarTree: A Reactive Compiler**                                           |
+|  <a href="https://star.surf"><img src='https://github.com/cluesurf/star.tree/blob/make/view/star.svg?raw=true' height="92"></a>  | A "programming framework" which (at some point) will be like Rust, with a way different syntax. |
 
 The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
 
