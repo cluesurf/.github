@@ -4,93 +4,102 @@
 
 <!-- <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/oaks2.png?raw=true' height='384'></a></p> -->
 
-<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/monkey.svg?raw=true' height='400'></a></p>
+<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/monkey.svg?raw=true' height='400'></p>
 
-## Preliminary
+## About
 
-ClueSurf is but a container for collecting and organizing useful stuff for understanding and exploring the universe. It is not really an "organization", or a group, but more like an identifier in a sea of names, to collect projects and works found interesting.
+ClueSurf is a collection of projects about software, language, and the universe.
+It's not necessarily an organization or team, just a place to group related work under one name.
 
-## Introduction
+The main goal is to explore how the universe works and share tools, languages, and ideas on it.
+We build things to model reality and make knowledge easier to understand.
 
-Currently focusing on a few things:
+## Focus
 
-1. **Software**: Open source software experimentation is the passion project.
-1. **Knowledge**: Understanding how the universe works and modeling information is the main drive.
-1. **Language**: Modeling things in natural language or code gives a deeper sense of reality.
-1. **Story**: Sharing learnings in the form of stories or philosophical conversations.
+We're working on four themes:
 
-Basically trying to synthesize and simplify the knowledge of the world so it boils down to something you could hold in your hand. Something where you can have a wide and at the same time deep sense of how the universe works.
+1. **Software**: Open source tools and experiments.
+2. **Knowledge**: Modeling how the universe fits together.
+3. **Language**: Creating ways to express ideas.
+4. **Story**: Sharing insights through writing.
 
-The projects so far are for unrolling the carpet of these "come-across" patterns and processes for everyone to see and gain a whole new awareness about reality. Together we can slowly find a whole array of patterns of various types and kinds, but for now we have just experienced a few of them so far, and wanted to share the notes in the form of various projects.
+Most projects aim to make complex ideas simple, beautiful, and useful.
 
-The tools range from a language system involving the programming framework StarTree, on top of the source code written in TreeCode, to a writing system Tone, using simple reflections and tails on 3 base glyphs generated from 3 base vowels, to write, using a pen or a rock etch, our spoken language, or the programming language. And a spoken language Tune to bridge the gap between computational information and natural imagination. They also include some digital tools to make life better and explore the patterns more intricately, such as natural language dictionaries, musical tracks, common reusable data, and other important things for preserving the knowledge (in concise form) of what we have unraveled so far up to today.
+## Key Tools
+
+These are our main projects:
+
 
 |                                                            Tool                                                             | Note                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
 |                                              [`tone.surf`](https://tone.surf)                                               | **Tone: A Speaking Alphabet**                                        |
-| <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/star.svg?raw=true' height="92"></a> | A simplified and uniform writing system for all languages of Earth.          |
+| <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/star.svg?raw=true' height="92"></a> | A writing system for all languages.          |
 |                                              [`tune.surf`](https://tune.surf)                                               | **Tune: A Thinking Language**                                   |
-|  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a>  | A constructed language used to model and play with reality in a deeper way.          |
+|  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a>  | A new conlang for meditating on reality.          |
 |                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Modeling Notation**                                           |
-|  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A "modeling language" where you write in concise and minimalistic trees of text. |   |
+|  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A simple data modeling language. |   |
 |                                              [`star.surf`](https://star.surf)                                               | **StarTree: A Reactive Compiler**                                           |
-|  <a href="https://star.surf"><img src='https://github.com/cluesurf/star.tree/blob/make/view/star.svg?raw=true' height="92"></a>  | A "programming framework" which (at some point) will be like Rust, with a way different syntax. |
+|  <a href="https://star.surf"><img src='https://github.com/cluesurf/star.tree/blob/make/view/star.svg?raw=true' height="92"></a>  | A compiler built on TreeCode. |
 
-The goal is to create a seed for transforming consciousness into a beautiful new flower. The seed will likely for now be some sort of evolving book or world or game which you engage in to gather the knowledge. Books would be an easier MVP, but utlimately who knows where things could go.
+Each tool connects language, writing, and software.
+The goal is to model and explore ideas using simple systems.
 
-Started creating a next generation data modeling framework, and APIs for the emerging group of digital natives coming into the work world full force. It's the hope that the designs and blueprints outlined in detail here will be implemented in the coming years. With all your help, and the help of AI in the time ahead, we will bring these interfaces to life, and they will make it super clean and straightforward to define patterns, structure data, and write reusable, shareable code.
+## Software Projects
 
-## Open Source Software
+We want to build tools to create apps easily and clearly.
+Like Rails, Haxe, or Dart, but more flexible and more beautiful.
 
-The main passion project is to have one programming language or tool to build all possibilities of software apps and libraries. Something like [Rails](https://rubyonrails.org), where everything is streamlined and out of the way so you can focus on your main task instead of wrangling code. Combined with something like [Haxe](https://haxe.org/) or [Dart](https://dart.dev/) where it compiles down to every platform natively. We are deep into the programming and computer science worlds, having been working toward this goal for several years. There's still a huge amount of work that remains to be done, and like mentioned earlier, the look and feel of everything is still being defined at this point, only barely scratching the surface in terms of making the code run.
+We're working on a core language called **TreeCode**.
+It's like JSON or YAML, but simpler and more readable.
+From TreeCode, we compile into native code using **StarTree**.
 
-There is [`tree`](https://github.com/cluesurf/tree), a super minimal tree-based data modeling language sort of like YAML/JSON/XML, which is in some ways more readable and concise than them. That project is basically finished. The spec is defined in that repo, and a primitive parser is implemented to convert TreeCode into a tree. The next step is taking the tree and compiling it into runnable code via [`star.tree`](https://github.com/cluesurf/star.tree).
+Here's the plan:
 
-The **goal** here is to create a suite of tools to write code in one language, TreeCode, and have it work cross-platform in an optimized way. This means compiling the TreeCode into Swift for iOS/MacOS/etc., Rust for Linux server-side, Kotlin for Android, and JavaScript for Windows, the Browser, and Node.js. But many of the projects are written in such a way as to be language agnostic. That is, you can use the definitions, which are written in `tree`, as you would any JSON object in your standard programming language.
+- Write once in TreeCode.
+- Compile to JavaScript, Swift, Rust, and Kotlin.
+- Use a shared library of types and patterns.
 
-Once we can nail down a prototype implementation that works in at least JavaScript (Node.js and Browser), and either Swift or Rust, then we will start publicizing the results and asking for help. But currently things are fluctuating constantly so it might be too much to bring it out in the open (even though it's publicly open source). If you'd like to help though, even now, that would be totally wonderful, please reach out.
+We're starting with JavaScript and Node.js support.
+More platforms will follow.
 
-The following table outlines the key projects and their overall purpose, so you can see how the pieces of the puzzle fit together. This is mostly a love for learning, a journey to understand the fundamentals of building an optimized compiler.
+### Key TreeCode Repos
 
-<br/>
-<br/>
+| Project | Purpose |
+|---------|---------|
+| [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser. |
+| [`star.tree`](https://github.com/cluesurf/star.tree) | Compiler and runtime for TreeCode. |
+| [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform. |
+| [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data. |
+| [`deck.tree`](https://github.com/cluesurf/deck.tree) | TreeCode package manager. |
+| [`make.tree`](https://github.com/cluesurf/make.tree) | Compiler logic and transformations. |
+| [`flow.tree`](https://github.com/cluesurf/flow.tree) | Code/data runtime environment. |
+| [`view.tree`](https://github.com/cluesurf/view.tree) | UI and graphics framework. |
+| [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations. |
+| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammar for converting text/data. |
+| [`form.tree`](https://github.com/cluesurf/form.tree) | Math and formal systems. |
 
-|                         Code                         | Note                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :--------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      [`tree`](https://github.com/cluesurf/tree)      | **TreeCode: A Modeling Notation**                                                                                                                                                                                                                                                                                                                                                                 |
-|   <a href="https://github.com/cluesurf/tree"></a>    | This is the "data modeling programming language" which [`star.tree`](https://github.com/cluesurf/star.tree) extends into a programming language and environment. There's not much too this piece other than the syntax.                                                                                                                                                                                    |
-| [`star.tree`](https://github.com/cluesurf/star.tree) | **StarTree: A Reactive Compiler**                                                                                                                                                                                                                                                                                                                                                         |
-| <a href="https://github.com/cluesurf/star.tree"></a> | This is one example tool for building [`tree`](https://github.com/cluesurf/tree) programs. It is a TreeCode package manager, as well as its compiler.                                                                                                                                                                                                                                                      |
-| [`bind.tree`](https://github.com/cluesurf/bind.tree) | **The StarTree Platform Binding Library**                                                                                                                                                                                                                                                                                                                                                                  |
-| <a href="https://github.com/cluesurf/bind.tree"></a> | This is a library of all the native _types_ for each programming language / environment (JavaScript, Swift, Rust, Kotlin). This gives us the information necessary to compile TreeCode down to native code in each environment.                                                                                                                                                                            |
-| [`base.tree`](https://github.com/cluesurf/base.tree) | **The StarTree Standard Library**                                                                                                                                                                                                                                                                                                                                                                          |
-| <a href="https://github.com/cluesurf/base.tree"></a> | This is the foundational standard library. It includes all your standard primitive data types, as well as other well-defined data models which are useful in standard apps. It implements these in Node.js, the Browser, Rust (Linux server-side), Swift, and Kotlin (down the road).                                                                                                                      |
-| [`deck.tree`](https://github.com/cluesurf/deck.tree) | **The StarTree Package Manager Library**                                                                                                                                                                                                                                                                                                                                                                   |
-| <a href="https://github.com/cluesurf/deck.tree"></a> | This is the package manager, which fetches and knows how to find any file necessary for the compiler.                                                                                                                                                                                                                                                                                                      |
-| [`make.tree`](https://github.com/cluesurf/make.tree) | **The StarTree Compiler Library**                                                                                                                                                                                                                                                                                                                                                                          |
-| <a href="https://github.com/cluesurf/make.tree"></a> | This is the compiler, which takes the TreeCode AST and transforms it into an AST based on your structure definitions, and then does the typechecking and typeinference and such to verify its correctness statically. Then it generates the JS or other target language output.                                                                                                                            |
-| [`flow.tree`](https://github.com/cluesurf/flow.tree) | **The StarTree Runtime Library**                                                                                                                                                                                                                                                                                                                                                                           |
-| <a href="https://github.com/cluesurf/flow.tree"></a> | This is the runtime library, which encodes the necessary base logic to hold the packages, files, data, and code in one unified place.                                                                                                                                                                                                                                                                      |
-| [`view.tree`](https://github.com/cluesurf/view.tree) | **The StarTree Graphics Library**                                                                                                                                                                                                                                                                                                                                                                          |
-| <a href="https://github.com/cluesurf/view.tree"></a> | This is eventually going to be the UI library, encompassing what React.js does, and what graphics engines do, and also handling other graphics related stuff.                                                                                                                                                                                                                                              |
-| [`link.tree`](https://github.com/cluesurf/link.tree) | **The StarTree Third-Party API Integration Library**                                                                                                                                                                                                                                                                                                                                                       |
-| <a href="https://github.com/cluesurf/link.tree"></a> | This is a collection of REST (and potentially other) API endpoints, written in [`tree`](https://github.com/cluesurf/tree). It is going to be used to provide integration with many services in the [`star.tree`](https://github.com/cluesurf/star.tree) / [`tree`](https://github.com/cluesurf/tree) ecosystem, though it is written in a language-agnostic way (i.e. you could use this in any language). |
-| [`code.tree`](https://github.com/cluesurf/code.tree) | **The StarTree Content Grammar Library**                                                                                                                                                                                                                                                                                                                                                                   |
-| <a href="https://github.com/cluesurf/code.tree"></a> | This is a collection of "grammars", written in [`tree`](https://github.com/cluesurf/tree). These are pattern recognizers for generating object structures out of text or binary strings, and doing the reverse, of generating text/binaries from objects. They are defined in a language agnostic way.                                                                                                     |
-| [`form.tree`](https://github.com/cluesurf/form.tree) | **The StarTree Math Library**                                                                                                                                                                                                                                                                                                                                                                              |
-| <a href="https://github.com/cluesurf/form.tree"></a> | This is a collection of mathematical formalizations, written in [`tree`](https://github.com/cluesurf/tree). These are going to be used, following along the lines of the HoTT project, as a foundational model of mathematics for use in a programming environment.                                                                                                                                        |
+These projects are still in early stages.
+Specs are being defined and tested.
 
-<br/>
-<br/>
+## Language Projects
 
-We are just beginning, so _much_ work is being done on the specifications, with only rough prototype implementations to test out the specifications. Once we finish the specifications and base implementations, it should be a usable cross-platform environment. Please reach out to use by opening an issue in any of the projects or finding us on Twitter if you'd like to discuss, exchange ideas, or in other ways join in the fun.
+### Tone
 
-## Language Building
+Tone is a writing system made from simple shapes.
+It can be used for any spoken language.
+You can write with a pen, stick, or stylus.
+There are 36 base glyphs, plus tone markers.
 
-At first there was the [`tone`](https://tone.surf) script, a writing system like the ancient runes that can encode any language on Earth in a concise and readable way using simple glyphs you could either carve on a rock, make out of sticks, or draw with a pen. It is built around tones, the vowel and consonant sounds, and there are 36 base glyphs, with special markers for things like tone in Chinese, and other important features. It is instantiated into a TypeScript library so you can convert an ASCII representation into the format used by the main font, ToneEtch.
+A TypeScript library turns text into this format.
+We use a font called ToneEtch.
 
-Then there was [`tune`](https://tune.surf), a language derived from imagining an ancient stone-tool making monkey culture of the past, and evolved it into a modern language capable of representing all of modern concepts and knowledge, such as naming species and places and everything you can imagine. That is very much an evolving work-in-progress. The goal here is to create a an intermediary framework for representing knowledge, for creating a way to conjure up "fantasy" words so we can name things which don't have names, to explore new concepts and ways of thinking.
+### Tune
 
-The project Tune is an attempt to create an evolutionary pathway for discovering spoken language in the same way. It moves you through a hand selected network of paths to a plausible description of how modern language got into existence. Tune is to tune yourself to the universe, which is what one does, through meditation and introspection, to align yourself with the oneness of the universe. To go with the flow.
+Tune is a made-up language for modeling thoughts.
+It started from imagining how ancient people might have spoken.
+It can be used to name new ideas and create stories.
 
-<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/stream.svg?raw=true' height='512'></a></p>
+It helps you think and describe things in new ways.
+We see it as a bridge between human thought and code.
+
+<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/stream.svg?raw=true' height='512'></p>
