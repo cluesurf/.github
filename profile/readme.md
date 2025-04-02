@@ -42,7 +42,6 @@ These are some of the final sites/projects:
 |  <a href="https://star.surf"><img src='https://github.com/cluesurf/star.tree/blob/make/view/star.svg?raw=true' height="92"></a>  | A compiler built on TreeCode. |
 
 Each tool's underlying motivation is simplifying information and computation for the general public.
-The goal is to model and explore ideas using simple systems.
 
 ## Software Projects
 
