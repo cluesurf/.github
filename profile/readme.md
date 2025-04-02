@@ -25,9 +25,9 @@ Working on four themes:
 
 Most projects aim to make complex ideas simple, beautiful, and useful.
 
-## Key Tools
+## Sites
 
-These are our main projects:
+These are some of the final sites/projects:
 
 
 |                                                            Tool                                                             | Note                                                                             |
