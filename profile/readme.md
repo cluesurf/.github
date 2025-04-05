@@ -4,7 +4,7 @@
 
 <!-- <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/logo.png?raw=true' height='64'></a></p> -->
 
-<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/land.png?raw=true' height='384'></a></p>
+<p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/view.png?raw=true' height='384'></a></p>
 
 <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/monkey.svg?raw=true' height='400'></p>
 
