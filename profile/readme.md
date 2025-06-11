@@ -23,7 +23,7 @@ Working on four themes:
 1. **Software**: Open source tools and experiments.
 2. **Knowledge**: Modeling how the universe fits together.
 3. **Language**: Creating ways to express ideas.
-4. **Story**: Sharing insights through writing.
+4. **Experience**: Sharing insights through writing.
 
 Most projects aim to make complex ideas simple, beautiful, and useful.
 
