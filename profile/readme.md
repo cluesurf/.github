@@ -40,8 +40,8 @@ These are some of the final sites/projects:
 |  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a>  | A conlang for meditating on reality.          |
 |                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Modeling Notation**                                           |
 |  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A simple data modeling language. |   |
-|                                              [`star.surf`](https://star.surf)                                               | **StarTree: A Reactive Compiler**                                           |
-|  <a href="https://star.surf"><img src='https://github.com/cluesurf/star.tree/blob/make/view/star.svg?raw=true' height="92"></a>  | A compiler built on TreeCode. |
+|                                              [`term.surf`](https://term.surf)                                               | **TermTree: A Reactive Compiler**                                           |
+|  <a href="https://term.surf"><img src='https://github.com/cluesurf/term.tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A compiler built on TreeCode. |
 
 Each tool's underlying motivation is simplifying information and computation for the general public.
 
@@ -53,7 +53,7 @@ Like Rails, Haxe, or Dart, but more flexible and more beautiful.
 Working on a core language called [**TreeCode**](https://github.com/cluesurf/tree).
 It's like JSON or YAML, but simpler and more readable.
 
-From TreeCode, compile into native code using [**StarTree**](https://github.com/cluesurf/star.tree).
+From TreeCode, compile into native code using [**TermTree**](https://github.com/cluesurf/term.tree).
 
 Here's the plan:
 
@@ -67,7 +67,7 @@ More platforms will follow.
 | Project | Purpose |
 |---------|---------|
 | [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser. |
-| [`star.tree`](https://github.com/cluesurf/star.tree) | Reactive compiler for TreeCode. |
+| [`term.tree`](https://github.com/cluesurf/term.tree) | Reactive compiler for TreeCode. |
 | [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform. |
 | [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data. |
 | [`deck.tree`](https://github.com/cluesurf/deck.tree) | TreeCode package manager. |
