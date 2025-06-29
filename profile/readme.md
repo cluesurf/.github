@@ -20,10 +20,10 @@ Building things to model reality and make knowledge easier to understand.
 
 Working on four themes:
 
-1. **Software**: Open source tools and experiments.
-2. **Knowledge**: Modeling how the universe fits together.
-3. **Language**: Creating ways to express ideas.
-4. **Experience**: Sharing insights through writing.
+1. **`flow`**: Tune with the oneness.
+2. **`mind`**: Distill experience into thoughts.
+3. **`text`**: Organize thoughts into notes.
+4. **`code`**: Formalize notes into models.
 
 Most projects aim to make complex ideas simple, beautiful, and useful.
 
