@@ -62,7 +62,7 @@ Here's the plan:
 - Use a shared library of types and patterns.
 
 Starting with JavaScript and Node.js support.
-More platforms will follow.
+More platforms will follow (Rust, Swift, Kotlin).
 
 | Project | Purpose |
 |---------|---------|
