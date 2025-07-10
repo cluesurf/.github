@@ -38,9 +38,9 @@ These are some of the final sites/projects:
 | <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/star.svg?raw=true' height="92"></a> | A writing system for all languages.          |
 |                                              [`tune.surf`](https://tune.surf)                                               | **Tune: A Thinking Language**                                   |
 |  <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a>  | A conlang for meditating on reality.          |
-|                                              [`tree.surf`](https://tree.surf)                                               | **TreeCode: A Modeling Notation**                                           |
+|                                              [`tree.surf`](https://tree.surf)                                               | **Tree: A Modeling Notation**                                           |
 |  <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a>  | A simple data modeling language. |   |
-|                                              [`term.surf`](https://term.surf)                                               | **TermTree: A Reactive Compiler**                                           |
+|                                              [`term.surf`](https://term.surf)                                               | **Term: A Reactive Compiler**                                           |
 |  <a href="https://term.surf"><img src='https://github.com/cluesurf/term/blob/make/view/tree.svg?raw=true' height="92"></a>  | A compiler built on TreeCode. |
 
 Each tool's underlying motivation is simplifying information and computation for the general public.
