@@ -109,7 +109,7 @@ structured text. Each is hand-drawn or redrawn from historical sources.
 | ---------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [`crow-mark`](https://github.com/cluesurf/crow-mark) | Modern monospaced font for code, language, math, and IPA.                       |
 | [`moon-mark`](https://github.com/cluesurf/moon-mark) | Over 1,000 redrawn Maya hieroglyphs from the FAMSI archive.                     |
-| [`rock-mark`](https://github.com/cluesurf/rock-mark) | Proto-Sinaitic script glyphs from ~1800 BCE, the ancestor of most alphabets.    |
+| [`wall-mark`](https://github.com/cluesurf/wall-mark) | Proto-Sinaitic script glyphs from ~1800 BCE, the ancestor of most alphabets.    |
 | [`wind-mark`](https://github.com/cluesurf/wind-mark) | 2,000+ Chinese oracle bone and bronze inscription glyphs from archival sources. |
 | [`leaf-mark`](https://github.com/cluesurf/leaf-mark) | Experimental symbol font mapping pre-language sounds to visual forms.           |
 
