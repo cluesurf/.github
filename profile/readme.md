@@ -100,7 +100,7 @@ have spoken. It can be used to name new ideas and create stories.
 It helps you think and describe things in new ways. The goal is to make
 it a bridge between human thought and code.
 
-## Custom Fonts
+## Font Projects
 
 A set of fonts built to preserve ancient scripts and support modern
 structured text. Each is hand-drawn or redrawn from historical sources.
