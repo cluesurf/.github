@@ -34,13 +34,13 @@ Most projects aim to make complex ideas simple, beautiful, and useful.
 These are some of the final sites/projects:
 
 |                                                           Tool                                                            | Note                                 |
-| :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------- | --- |
+| :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------- |
 |                                             [`tone.surf`](https://tone.surf)                                              | **Tone: A Speaking Alphabet**        |
 | <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/star.svg?raw=true' height="92"></a> | A writing system for all languages.  |
 |                                             [`tune.surf`](https://tune.surf)                                              | **Tune: A Thinking Language**        |
 | <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a> | A conlang for meditating on reality. |
 |                                             [`tree.surf`](https://tree.surf)                                              | **Tree: A Modeling Notation**        |
-| <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |     |
+| <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |
 |                                             [`term.surf`](https://term.surf)                                              | **Term: A Reactive Compiler**        |
 | <a href="https://term.surf"><img src='https://github.com/cluesurf/term/blob/make/view/tree.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
 
@@ -68,7 +68,7 @@ Here's the plan:
 Starting with JavaScript and Node.js support. More platforms will follow
 (Rust, Swift, Kotlin).
 
-| Project                                              | Purpose                            |
+| Code                                                 | Note                               |
 | ---------------------------------------------------- | ---------------------------------- |
 | [`tree`](https://github.com/cluesurf/tree)           | TreeCode syntax and parser.        |
 | [`term`](https://github.com/cluesurf/term)           | Reactive compiler for TreeCode.    |
@@ -105,7 +105,7 @@ it a bridge between human thought and code.
 A set of fonts built to preserve ancient scripts and support modern
 structured text. Each is hand-drawn or redrawn from historical sources.
 
-| Font                                                 | Purpose                                                                         |
+| Font                                                 | Note                                                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [`crow-mark`](https://github.com/cluesurf/crow-mark) | Modern monospaced font for code, language, math, and IPA.                       |
 | [`moon-mark`](https://github.com/cluesurf/moon-mark) | Over 1,000 redrawn Maya hieroglyphs from the FAMSI archive.                     |
