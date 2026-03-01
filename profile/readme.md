@@ -100,17 +100,4 @@ have spoken. It can be used to name new ideas and create stories.
 It helps you think and describe things in new ways. The goal is to make
 it a bridge between human thought and code.
 
-## Font Projects
-
-A set of fonts built to preserve ancient scripts and support modern
-structured text. Each is hand-drawn or redrawn from historical sources.
-
-| Font                                                 | Note                                                                            |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [`crow-mark`](https://github.com/cluesurf/crow-mark) | Modern monospaced font for code, language, math, and IPA.                       |
-| [`moon-mark`](https://github.com/cluesurf/moon-mark) | Over 1,000 redrawn Maya hieroglyphs from the FAMSI archive.                     |
-| [`wall-mark`](https://github.com/cluesurf/wall-mark) | Proto-Sinaitic script glyphs from ~1800 BCE, the ancestor of most alphabets.    |
-| [`wind-mark`](https://github.com/cluesurf/wind-mark) | 2,000+ Chinese oracle bone and bronze inscription glyphs from archival sources. |
-| [`leaf-mark`](https://github.com/cluesurf/leaf-mark) | Experimental symbol font mapping pre-language sounds to visual forms.           |
-
 <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/bush.svg?raw=true' height='192'></p>
