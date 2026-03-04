@@ -41,8 +41,8 @@ These are some of the final sites/projects:
 | <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a> | A conlang for meditating on reality. |
 |                                             [`tree.surf`](https://tree.surf)                                              | **Tree: A Modeling Notation**        |
 | <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |
-|                                             [`term.surf`](https://term.surf)                                              | **Seed: A Reactive Compiler**        |
-| <a href="https://term.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/tree.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
+|                                             [`seed.surf`](https://term.surf)                                              | **Seed: A Reactive Compiler**        |
+| <a href="https://term.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/seed.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
 
 Each tool's underlying motivation is simplifying information and
 computation for the general public.
