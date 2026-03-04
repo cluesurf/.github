@@ -41,8 +41,8 @@ These are some of the final sites/projects:
 | <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a> | A conlang for meditating on reality. |
 |                                             [`tree.surf`](https://tree.surf)                                              | **Tree: A Modeling Notation**        |
 | <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |
-|                                             [`term.surf`](https://term.surf)                                              | **Term: A Reactive Compiler**        |
-| <a href="https://term.surf"><img src='https://github.com/cluesurf/term/blob/make/view/tree.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
+|                                             [`term.surf`](https://term.surf)                                              | **Seed: A Reactive Compiler**        |
+| <a href="https://term.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/tree.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
 
 Each tool's underlying motivation is simplifying information and
 computation for the general public.
@@ -57,7 +57,7 @@ Working on a core language called
 YAML, but simpler and more readable.
 
 From TreeCode, compile into native code using
-[**TermTree**](https://github.com/cluesurf/term).
+[**Seed**](https://github.com/cluesurf/seed).
 
 Here's the plan:
 
@@ -71,7 +71,7 @@ Starting with JavaScript and Node.js support. More platforms will follow
 | Code                                                 | Note                               |
 | ---------------------------------------------------- | ---------------------------------- |
 | [`tree`](https://github.com/cluesurf/tree)           | TreeCode syntax and parser.        |
-| [`term`](https://github.com/cluesurf/term)           | Reactive compiler for TreeCode.    |
+| [`seed`](https://github.com/cluesurf/seed)           | Reactive compiler for TreeCode.    |
 | [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform.    |
 | [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data.    |
 | [`deck.tree`](https://github.com/cluesurf/deck.tree) | TreeCode package manager.          |
