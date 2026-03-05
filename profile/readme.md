@@ -41,8 +41,8 @@ These are some of the final sites/projects:
 | <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a> | A conlang for meditating on reality. |
 |                                             [`tree.surf`](https://tree.surf)                                              | **Tree: A Modeling Notation**        |
 | <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |
-|                                             [`seed.surf`](https://term.surf)                                              | **Seed: A Reactive Compiler**        |
-| <a href="https://term.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/seed.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
+|                                             [`seed.surf`](https://seed.surf)                                              | **Seed: A Reactive Compiler**        |
+| <a href="https://seed.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/seed.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
 
 Each tool's underlying motivation is simplifying information and
 computation for the general public.
@@ -72,13 +72,18 @@ Starting with JavaScript and Node.js support. More platforms will follow
 | ---------------------------------------------------- | ---------------------------------- |
 | [`tree`](https://github.com/cluesurf/tree)           | TreeCode syntax and parser.        |
 | [`seed`](https://github.com/cluesurf/seed)           | Reactive compiler for TreeCode.    |
-| [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform.    |
-| [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data.    |
+| [`make.tree`](https://github.com/cluesurf/make.tree) | Compiler for TreeCode.             |
+| [`flow.tree`](https://github.com/cluesurf/flow.tree) | Language server (LSP).             |
 | [`deck.tree`](https://github.com/cluesurf/deck.tree) | TreeCode package manager.          |
-| [`flow.tree`](https://github.com/cluesurf/flow.tree) | Code/data runtime environment.     |
-| [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations.      |
-| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammars for converting text/data. |
+| [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data.    |
+| [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform.    |
+| [`land.tree`](https://github.com/cluesurf/land.tree) | Physics, graphics, games, media.   |
+| [`mesh.tree`](https://github.com/cluesurf/mesh.tree) | Infrastructure and deployment.     |
 | [`form.tree`](https://github.com/cluesurf/form.tree) | Math and formal systems.           |
+| [`word.tree`](https://github.com/cluesurf/word.tree) | Language and linguistics.          |
+| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammars for converting text/data. |
+| [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations.      |
+| [`site.tree`](https://github.com/cluesurf/site.tree) | App level frameworks.              |
 
 These projects are still in early stages. Specs are being defined and
 tested.
