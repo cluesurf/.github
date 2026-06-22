@@ -59,34 +59,10 @@ YAML, but simpler and more readable.
 From TreeCode, compile into native code using
 [**Seed**](https://github.com/cluesurf/seed).
 
-Here's the plan:
-
-- Write once in TreeCode.
-- Compile to JavaScript, Swift, Rust, and Kotlin.
-- Use a shared library of types and patterns.
-
-Starting with JavaScript and Node.js support. More platforms will follow
-(Rust, Swift, Kotlin).
-
-| Code                                                 | Note                               |
-| ---------------------------------------------------- | ---------------------------------- |
-| [`tree`](https://github.com/cluesurf/tree)           | TreeCode syntax and parser.        |
-| [`seed`](https://github.com/cluesurf/seed)           | Reactive compiler for TreeCode.    |
-| [`make.tree`](https://github.com/cluesurf/make.tree) | Compiler for TreeCode.             |
-| [`flow.tree`](https://github.com/cluesurf/flow.tree) | Language server (LSP).             |
-| [`deck.tree`](https://github.com/cluesurf/deck.tree) | Package manager.                   |
-| [`base.tree`](https://github.com/cluesurf/base.tree) | Shared standard types and data.    |
-| [`bind.tree`](https://github.com/cluesurf/bind.tree) | Native types for each platform.    |
-| [`land.tree`](https://github.com/cluesurf/land.tree) | Physics, graphics, games, media.   |
-| [`mesh.tree`](https://github.com/cluesurf/mesh.tree) | Infrastructure and deployment.     |
-| [`form.tree`](https://github.com/cluesurf/form.tree) | Math and formal systems.           |
-| [`word.tree`](https://github.com/cluesurf/word.tree) | Language and linguistics.          |
-| [`code.tree`](https://github.com/cluesurf/code.tree) | Grammars for converting text/data. |
-| [`link.tree`](https://github.com/cluesurf/link.tree) | Third-party API integrations.      |
-| [`site.tree`](https://github.com/cluesurf/site.tree) | App level frameworks.              |
-
-These projects are still in early stages. Specs are being defined and
-tested.
+| Code                                       | Note                            |
+| ------------------------------------------ | ------------------------------- |
+| [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser.     |
+| [`seed`](https://github.com/cluesurf/seed) | Reactive compiler for TreeCode. |
 
 ## Language Projects
 
