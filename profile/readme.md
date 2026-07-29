@@ -29,22 +29,24 @@ Working on four themes:
 
 Most projects aim to make complex ideas simple, beautiful, and useful.
 
-## Sites
+## Projects
 
-These are some of the final sites/projects:
+|                                                                      Work                                                                       | Note                                       |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------- |
+|                                            [`vibe`](https://github.com/cluesurf/vibe)                                             | **Vibe: A Discrete Possible Universe**     |
+|  <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/vibe.svg?raw=true' height="92"></a>  | A physics built from discrete geometry.    |
+|                                            [`term`](https://github.com/cluesurf/term)                                             | **Term: A Reactive Modeling Language**     |
+|  <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="92"></a>  | A reactive compiler built on Tree.         |
+|                                            [`tone`](https://github.com/cluesurf/tone)                                             | **Tone: A Codified Phonetic Alphabet**     |
+|  <a href="https://github.com/cluesurf/tone"><img src='https://github.com/cluesurf/tone/blob/make/view/tone.svg?raw=true' height="92"></a>  | A writing system for all languages.        |
+|                                            [`tune`](https://github.com/cluesurf/tune)                                             | **Tune: A Measured Speaking Language**     |
+|  <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/tune.svg?raw=true' height="92"></a>  | A conlang for meditating on reality.       |
+|                                            [`tree`](https://github.com/cluesurf/tree)                                             | **Tree: A Flexible Modeling Notation**     |
+| <a href="https://github.com/cluesurf/tree"><img src='https://github.com/cluesurf/tree/blob/make/view/tree-icon.svg?raw=true' height="92"></a> | A simple data modeling notation.           |
+|                                            [`talk`](https://github.com/cluesurf/talk)                                             | **Talk: A Phonetic Sequence Encoding**     |
+|  <a href="https://github.com/cluesurf/talk"><img src='https://github.com/cluesurf/talk/blob/make/view/talk.svg?raw=true' height="92"></a>  | An ASCII notation for pronunciation.       |
 
-|                                                           Tool                                                            | Note                                 |
-| :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------- |
-|                                             [`tone.surf`](https://tone.surf)                                              | **Tone: A Speaking Alphabet**        |
-| <a href="https://tone.surf"><img src='https://github.com/cluesurf/tone/blob/make/view/star.svg?raw=true' height="92"></a> | A writing system for all languages.  |
-|                                             [`tune.surf`](https://tune.surf)                                              | **Tune: A Thinking Language**        |
-| <a href="https://tune.surf"><img src='https://github.com/cluesurf/tune/blob/make/view/moon.svg?raw=true' height="92"></a> | A conlang for meditating on reality. |
-|                                             [`tree.surf`](https://tree.surf)                                              | **Tree: A Modeling Notation**        |
-| <a href="https://tree.surf"><img src='https://github.com/cluesurf/tree/blob/make/view/tree.svg?raw=true' height="92"></a> | A simple data modeling language.     |
-|                                             [`seed.surf`](https://term.surf)                                              | **Seed: A Reactive Compiler**        |
-| <a href="https://seed.surf"><img src='https://github.com/cluesurf/seed/blob/make/view/seed.svg?raw=true' height="92"></a> | A compiler built on TreeCode.        |
-
-Each tool's underlying motivation is simplifying information and
+Each project's underlying motivation is simplifying information and
 computation for the general public.
 
 ## Software Projects
@@ -52,17 +54,18 @@ computation for the general public.
 Want to build tools to create apps easily and clearly. Like Rails, Haxe,
 or Dart, but more flexible and more beautiful.
 
-Working on a core language called
-[**TreeCode**](https://github.com/cluesurf/tree). It's like JSON or
-YAML, but simpler and more readable.
+Working on a base language called
+[**Tree**](https://github.com/cluesurf/tree). It's like JSON or YAML, but
+simpler and more readable.
 
-From TreeCode, compile into native code using
-[**Seed**](https://github.com/cluesurf/seed).
+From Tree, compile into native code using
+[**Term**](https://github.com/cluesurf/term).
 
-| Code                                       | Note                            |
-| ------------------------------------------ | ------------------------------- |
-| [`tree`](https://github.com/cluesurf/tree) | TreeCode syntax and parser.     |
-| [`seed`](https://github.com/cluesurf/seed) | Reactive compiler for TreeCode. |
+| Code                                       | Note                          |
+| ------------------------------------------ | ----------------------------- |
+| [`tree`](https://github.com/cluesurf/tree) | Tree syntax and parser.       |
+| [`term`](https://github.com/cluesurf/term) | Reactive compiler for Tree.   |
+| [`talk`](https://github.com/cluesurf/talk) | Phonetic encoding library.    |
 
 ## Language Projects
 
@@ -80,5 +83,15 @@ have spoken. It can be used to name new ideas and create stories.
 
 It helps you think and describe things in new ways. The goal is to make
 it a bridge between human thought and code.
+
+## Universe Projects
+
+[**Vibe**](https://github.com/cluesurf/vibe) is a model of physics built
+from discrete geometry rather than continuous space. It asks what the
+smallest set of things is that a universe needs in order to produce the
+behavior we observe.
+
+It comes with a simulator, so each claim can be tested rather than only
+argued.
 
 <p align='center'><img src='https://github.com/cluesurf/.github/blob/make/view/bush.svg?raw=true' height='192'></p>
