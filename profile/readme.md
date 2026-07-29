@@ -23,17 +23,17 @@ knowledge easier to understand.
 |                                                                     Work                                                                      | Note                                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------- |
 |                                                  [`vibe`](https://github.com/cluesurf/vibe)                                                   | **Vibe: A Discrete Possible Universe**  |
-|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/vibe.svg?raw=true' height="48"></a>    | A physics built from discrete geometry. |
+|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/vibe.svg?raw=true' height="32"></a>    | A physics built from discrete geometry. |
 |                                                  [`term`](https://github.com/cluesurf/term)                                                   | **Term: A Reactive Modeling Language**  |
-|   <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="48"></a>    | A reactive compiler built on Tree.      |
+|   <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="32"></a>    | A reactive compiler built on Tree.      |
 |                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: A Codified Phonetic Alphabet**  |
-|   <a href="https://github.com/cluesurf/tone"><img src='https://github.com/cluesurf/tone/blob/make/view/tone.svg?raw=true' height="48"></a>    | A writing system for all languages.     |
+|   <a href="https://github.com/cluesurf/tone"><img src='https://github.com/cluesurf/tone/blob/make/view/tone.svg?raw=true' height="32"></a>    | A writing system for all languages.     |
 |                                                  [`tune`](https://github.com/cluesurf/tune)                                                   | **Tune: A Measured Speaking Language**  |
-|   <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/tune.svg?raw=true' height="48"></a>    | A conlang for meditating on reality.    |
+|   <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/tune.svg?raw=true' height="32"></a>    | A conlang for meditating on reality.    |
 |                                                  [`tree`](https://github.com/cluesurf/tree)                                                   | **Tree: A Flexible Modeling Notation**  |
-| <a href="https://github.com/cluesurf/tree"><img src='https://github.com/cluesurf/tree/blob/make/view/tree-icon.svg?raw=true' height="48"></a> | A simple data modeling notation.        |
+| <a href="https://github.com/cluesurf/tree"><img src='https://github.com/cluesurf/tree/blob/make/view/tree-icon.svg?raw=true' height="32"></a> | A simple data modeling notation.        |
 |                                                  [`talk`](https://github.com/cluesurf/talk)                                                   | **Talk: A Phonetic Sequence Encoding**  |
-|   <a href="https://github.com/cluesurf/talk"><img src='https://github.com/cluesurf/talk/blob/make/view/talk.svg?raw=true' height="48"></a>    | An ASCII notation for pronunciation.    |
+|   <a href="https://github.com/cluesurf/talk"><img src='https://github.com/cluesurf/talk/blob/make/view/talk.svg?raw=true' height="32"></a>    | An ASCII notation for pronunciation.    |
 
 Each project's underlying motivation is simplifying information and
 computation for the general public.
