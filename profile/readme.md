@@ -50,12 +50,6 @@ but simpler and more readable.
 From Tree, compile into native code using
 [**Term**](https://github.com/cluesurf/term).
 
-| Code                                       | Note                        |
-| ------------------------------------------ | --------------------------- |
-| [`tree`](https://github.com/cluesurf/tree) | Tree syntax and parser.     |
-| [`term`](https://github.com/cluesurf/term) | Reactive compiler for Tree. |
-| [`talk`](https://github.com/cluesurf/talk) | Phonetic encoding library.  |
-
 ## Language Projects
 
 [**Tone**](https://github.com/cluesurf/tone) is a writing system made
