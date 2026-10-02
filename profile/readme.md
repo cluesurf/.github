@@ -23,7 +23,7 @@ knowledge easier to understand.
 |                                                                     Work                                                                      | Note                                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------- |
 |                                                  [`vibe`](https://github.com/cluesurf/vibe)                                                   | **Vibe: A Discrete Possible Universe**  |
-|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/omega.svg?raw=true' height="32"></a>    | A physics built from discrete geometry. |
+|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/mark.svg?raw=true' height="32"></a>    | A physics built from discrete geometry. |
 |                                                  [`term`](https://github.com/cluesurf/term)                                                   | **Term: A Reactive Modeling Language**  |
 |   <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="32"></a>    | A reactive compiler built on Tree.      |
 |                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: A Codified Phonetic Alphabet**  |
