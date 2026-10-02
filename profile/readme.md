@@ -29,7 +29,7 @@ knowledge easier to understand.
 |                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: A Codified Phonetic Alphabet**  |
 |   <a href="https://github.com/cluesurf/tone"><img src='https://github.com/cluesurf/tone/blob/make/view/tone.svg?raw=true' height="32"></a>    | A writing system for all languages.     |
 |                                                  [`tune`](https://github.com/cluesurf/tune)                                                   | **Tune: A Measured Speaking Language**  |
-|   <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/tune.svg?raw=true' height="32"></a>    | A conlang for meditating on reality.    |
+|   <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/mark.svg?raw=true' height="32"></a>    | A conlang for meditating on reality.    |
 |                                                  [`tree`](https://github.com/cluesurf/tree)                                                   | **Tree: A Flexible Modeling Notation**  |
 | <a href="https://github.com/cluesurf/tree"><img src='https://github.com/cluesurf/tree/blob/make/view/tree-icon.svg?raw=true' height="32"></a> | A simple data modeling notation.        |
 |                                                  [`talk`](https://github.com/cluesurf/talk)                                                   | **Talk: A Phonetic Sequence Encoding**  |
