@@ -24,6 +24,8 @@ knowledge easier to understand.
 | :-------------------------------------------------------------------------------------: | :------------------------------------- |
 |                            [`text.surf`](https://text.surf)                             | **TextSurf: Ancient Texts**            |
 | <a href="https://text.surf"><img src='https://text.surf/view/logo.svg' height="32"></a> | Read ancient texts in their languages. |
+|                            [`word.surf`](https://word.surf)                             | **WordSurf: World Languages**          |
+|   <a href="https://word.surf"><img src='https://word.surf/word.svg' height="32"></a>    | Explore the languages of the world.    |
 
 ## Projects
 
