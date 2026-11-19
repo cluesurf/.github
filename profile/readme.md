@@ -18,12 +18,19 @@ The main goal is to explore how the universe works and share tools,
 languages, and ideas on it. Building things to model reality and make
 knowledge easier to understand.
 
+## Sites
+
+|                                          Site                                           | Note                                   |
+| :-------------------------------------------------------------------------------------: | :------------------------------------- |
+|                            [`text.surf`](https://text.surf)                             | **TextSurf: Ancient Texts**            |
+| <a href="https://text.surf"><img src='https://text.surf/view/logo.svg' height="32"></a> | Read ancient texts in their languages. |
+
 ## Projects
 
 |                                                                     Work                                                                      | Note                                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------- |
 |                                                  [`vibe`](https://github.com/cluesurf/vibe)                                                   | **Vibe: A Discrete Possible Universe**  |
-|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/mark8.svg?raw=true' height="32"></a>    | A physics built from discrete geometry. |
+|   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/mark8.svg?raw=true' height="32"></a>   | A physics built from discrete geometry. |
 |                                                  [`term`](https://github.com/cluesurf/term)                                                   | **Term: A Reactive Modeling Language**  |
 |   <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="32"></a>    | A reactive compiler built on Tree.      |
 |                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: A Codified Phonetic Alphabet**  |
