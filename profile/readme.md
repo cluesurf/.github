@@ -31,17 +31,17 @@ knowledge easier to understand.
 
 |                                                                     Work                                                                      | Note                                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------- |
-|                                                  [`vibe`](https://github.com/cluesurf/vibe)                                                   | **Vibe: A Discrete Possible Universe**  |
+|                                                  [`vibe`](https://github.com/cluesurf/vibe)                                                   | **Vibe: Valenced Information as Base Experience**  |
 |   <a href="https://github.com/cluesurf/vibe"><img src='https://github.com/cluesurf/vibe/blob/make/view/mark8.svg?raw=true' height="32"></a>   | A physics built from discrete geometry. |
-|                                                  [`term`](https://github.com/cluesurf/term)                                                   | **Term: A Reactive Modeling Language**  |
+|                                                  [`term`](https://github.com/cluesurf/term)                                                   | **Term: Typed Expressions for Reliable Models**  |
 |   <a href="https://github.com/cluesurf/term"><img src='https://github.com/cluesurf/term/blob/make/view/term.svg?raw=true' height="32"></a>    | A reactive compiler built on Tree.      |
-|                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: A Codified Phonetic Alphabet**  |
+|                                                  [`tone`](https://github.com/cluesurf/tone)                                                   | **Tone: Triadic Orthography for Natural Expression**  |
 |   <a href="https://github.com/cluesurf/tone"><img src='https://github.com/cluesurf/tone/blob/make/view/tone.svg?raw=true' height="32"></a>    | A writing system for all languages.     |
-|                                                  [`tune`](https://github.com/cluesurf/tune)                                                   | **Tune: A Measured Speaking Language**  |
+|                                                  [`tune`](https://github.com/cluesurf/tune)                                                   | **Tune: Tokenized Universe for Navigating Experience**  |
 |   <a href="https://github.com/cluesurf/tune"><img src='https://github.com/cluesurf/tune/blob/make/view/mark.svg?raw=true' height="32"></a>    | A conlang for meditating on reality.    |
-|                                                  [`tree`](https://github.com/cluesurf/tree)                                                   | **Tree: A Flexible Modeling Notation**  |
+|                                                  [`tree`](https://github.com/cluesurf/tree)                                                   | **Tree: Textual Representation for Extensible Expressions**  |
 | <a href="https://github.com/cluesurf/tree"><img src='https://github.com/cluesurf/tree/blob/make/view/tree-icon.svg?raw=true' height="32"></a> | A simple data modeling notation.        |
-|                                                  [`talk`](https://github.com/cluesurf/talk)                                                   | **Talk: A Phonetic Sequence Encoding**  |
+|                                                  [`talk`](https://github.com/cluesurf/talk)                                                   | **Talk: Tokenized Alphabet for Linguistic Knowledge**  |
 |   <a href="https://github.com/cluesurf/talk"><img src='https://github.com/cluesurf/talk/blob/make/view/talk.svg?raw=true' height="32"></a>    | An ASCII notation for pronunciation.    |
 
 Each project's underlying motivation is simplifying information and
